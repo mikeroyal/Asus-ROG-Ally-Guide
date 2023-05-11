@@ -21,14 +21,12 @@
 [Rufus](https://rufus.ie/) is a utility that helps format and create bootable USB flash drives.
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/158471950-74640216-66ed-407b-a615-e643284ba0b8.png">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/3ba34ecc-c55d-491f-b727-2090fc036edd)">
   <br />
   Rufus
 </p>
 
-#### In Rufus 3.19
-
-Add a new selection dialog for Windows 11 setup customization:
+ **Windows 11 setup customization:**
 
 - Secure Boot and TPM bypass have now been moved to this dialog.
 - Allows to bypass the mandatory requirement for a Microsoft account on Windows 11 22H2.
@@ -37,9 +35,9 @@ Add a new selection dialog for Windows 11 setup customization:
   * Added an option for setting internal drives offline for Windows To Go.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/45159366/183272077-015b8bb2-af94-443a-a455-f2018fcbd52a.png">
+  <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/6f9ecd46-dd02-4df3-9da0-b8fa5184038b">
   <br />
-    Rufus 3.19 Windows 11 setup customization.
+    Rufus Windows 11 setup customization.
 </p>
 
 ## [Windows 11](https://www.microsoft.com/en-us/software-download/windows11)
@@ -58,7 +56,7 @@ Add a new selection dialog for Windows 11 setup customization:
 [Rufus](https://rufus.ie/) is a utility that helps format and create bootable USB flash drives.
 
 <p align="center">
- <img src="">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/86c50e13-a851-42aa-b49c-2220894e5be8">
   <br />
   Rufus
 </p>
