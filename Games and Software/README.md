@@ -5,8 +5,8 @@
 ## Table of Contents
 
 - [Getting Software](#getting-software)
-- [Gaming on Windows](./windows-gaming.md)
-- [Gaming on Linux](./linux-gaming.md)
+- [Gaming on Windows](./windows%20gaming.md)
+- [Gaming on Linux](./linux%20gaming.md)
 - [Operating Systems](./Operating%20Systems.md)
   - [Windows](./Operating%20Systems.md#windows)
   - [Linux](./Operating%20Systems.md#linux)
