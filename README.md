@@ -30,7 +30,7 @@ A guide covering ASUS ROG Ally including the applications and tools that will ma
 - [Accessories](./Accessories.md)
 - [Games and Software](./Games%20and%20Software/README.md)
   - [Gaming on Windows](./Games%20and%20Software/Windows%20Gaming.md)
-  - [Gaming on Linux]([./Games%20and%20Software/Linux%20Gaming.md)
+  - [Gaming on Linux](./Games%20and%20Software/Linux%20Gaming.md)
   - [Operating Systems](./Games%20and%20Software/Operating%20Systems.md)
 - [Contribute](#contribute)
 - [License](#license)
