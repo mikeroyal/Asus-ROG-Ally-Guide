@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/84d15d86-7e93-485a-bae8-f863c21287f0">
+  <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/79ccee79-8fa9-49d0-99ac-f1bc386a534a">
     <br />
       ASUS ROG Ally Guide
 </h1>	
