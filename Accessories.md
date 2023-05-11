@@ -9,8 +9,7 @@
 - [Cases](#cases)
 - [Skins](#skins)
 - [Headphones](#headphones)
-- [Controllers](#controllers)
-   - [Joysticks](#joysticks)  
+- [Controllers](#controllers) 
 - [Screen Protectors](#screen-protectors)
 - [Storage](#storage)
   - [MicroSD Cards](#microsd-cards)
@@ -22,14 +21,7 @@
 
 [Back to Top](#asus-rog-ally-accessories)
 
-[NexDock](https://nexdock.com/features/) is an accessory with a HDMI-in port and Type-C cable NexDock that turns the Steam Deck into a fully functional computer.
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/45159366/163284895-74fdfeaa-54df-4d7c-8e79-6117ca40b794.jpg">
-  <br />
-</p>
-
-**NexDock 2-in-1. Source: [NexDock](https://nexdock.com/features/)**
+[NexDock](https://nexdock.com/features/) is an accessory with a HDMI-in port and Type-C cable NexDock that turns the Asus Ally into a fully functional computer.
 
 ### USB-C Adapters
 
@@ -85,35 +77,15 @@
  * After this, open the lid on your Airpods, and don’t pull out the earbuds immediately. Hold the button at the back of the case and wait until the light starts flashing on your Airpods.
   
  * The flashing light indicates the AirPods are in pairing mode. Tap on the Airpods option in the Steam Deck and wait till the connection is established.
- 
- **If you still have issues connecting**
- 
- * Plugin the mouse and keyboard into the USB ports on your Steam Deck.
-  
- *  Hold the power button to bring up the power menu.
-  
- *  Choose “Switch to Desktop” to switch over to the Linux desktop.
-  
- *  Now go the Bluetooth Settings and set it to enable on login.
 
 ## Controllers
 
 [Back to Top](#asus-rog-ally-accessories)
 
-[Steam Contoller](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=steam+controller&_sacat=0)
+[ROG Raikiri Pro PC Controller](https://rog.asus.com/controllers/rog-raikiri-pro-model/)  is a Xbox-licensed PC controller that features a built-in OLED display, tri-mode connectivity, four rear buttons, selectable step triggers, an ESS DAC, plus adjustable joystick sensitivity and response curves. 
 
- * **Note:** Steam Controllers were discontinued on November 26, 2019, though, you can still buy them on ebay.
-
- * [Steam Controller Setup](https://help.steampowered.com/en/faqs/view/41C5-7D8C-1671-411E)
- 
  <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/211141385-fe44e2a3-ebc2-41d7-acc1-4d14957ef9aa.png">
- 
-</p>
-
-<p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/211141386-8054ef27-e7de-4ecc-96e9-b8a46e45a9ea.png">
- 
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/84654474-00db-4653-9398-7d0f26c510dc">
 </p>
 
 
@@ -148,6 +120,22 @@
   <img src="https://user-images.githubusercontent.com/45159366/194023448-09e74efa-67f8-4503-87f5-5b7e59289608.png">
   <br />
     Nintendo Switch Pro Controller
+</p>
+
+[Steam Contoller](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=steam+controller&_sacat=0)
+
+ * **Note:** Steam Controllers were discontinued on November 26, 2019, though, you can still buy them on ebay.
+
+ * [Steam Controller Setup](https://help.steampowered.com/en/faqs/view/41C5-7D8C-1671-411E)
+ 
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/211141385-fe44e2a3-ebc2-41d7-acc1-4d14957ef9aa.png">
+ 
+</p>
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/211141386-8054ef27-e7de-4ecc-96e9-b8a46e45a9ea.png">
+ 
 </p>
 
 
@@ -185,13 +173,6 @@
  <img src="https://user-images.githubusercontent.com/45159366/218290132-7a548dea-8c9b-4c96-8efb-24b9d8c7f74c.png">
 </p>
 
-## Joysticks
-
- [Gulikit Electromagnetic Module Joystick for Steam Deck](https://www.amazon.com/Electromagnetic-Steam-Deck-Thumbstick-Replacement-Accessories/dp/B0B31STJDH)
- 
- * [Upgrade your Steam Deck with Hall Effect Joysticks | Craft Computing YouTube](https://www.youtube.com/watch?v=Ljg_UOKPeMY)
-
-
 ## Screen Protectors
 
 [Back to Top](#asus-rog-ally-accessories)
@@ -202,7 +183,7 @@
 
 [Back to Top](#asus-rog-ally-accessories)
 
-The Steam Deck supports expansion via a MicroSD card slot which supports up to 2tb MicroSD cards. Additionally the deck uses a 2230 m.2 SSD drive, meaning that some users have sourced large (up to 2tb!) drives to upgrade their Decks.
+The Asus Ally supports expansion via a MicroSD card slot which supports up to 2tb MicroSD cards. Additionally it uses a 2230 m.2 SSD drive, meaning that some users have sourced large (up to 2TB!) drives to upgrade their Decks.
 
 ### MicroSD Cards
 
