@@ -18,7 +18,7 @@
 
 ### Getting Software on Windows
 
-[Windows Package Manager](https://docs.microsoft.com/en-us/windows/package-manager/) is a comprehensive [package manager solution](https://docs.microsoft.com/en-us/windows/package-manager/#understanding-package-managers) that consists of a command line tool and set of services for installing applications on Windows 10. Developers can use the winget command line tool to discover, install, upgrade, remove and configure a curated set of applications. After it is installed, developers can access winget via the [Windows Terminal](https://docs.microsoft.com/en-us/windows/terminal/), [PowerShell](https://docs.microsoft.com/en-us/powershell/), or the Command Prompt.
+[Windows Package Manager](https://docs.microsoft.com/en-us/windows/package-manager/) is a comprehensive [package manager solution](https://docs.microsoft.com/en-us/windows/package-manager/#understanding-package-managers) that consists of a command line tool and set of services for installing applications on Windows 11. Developers can use the winget command line tool to discover, install, upgrade, remove and configure a curated set of applications. After it is installed, developers can access winget via the [Windows Terminal](https://docs.microsoft.com/en-us/windows/terminal/), [PowerShell](https://docs.microsoft.com/en-us/powershell/), or the Command Prompt.
 
 **[Using the winget tool to install and manage software packages](https://docs.microsoft.com/en-us/windows/package-manager/winget/)**
 
@@ -36,7 +36,7 @@
   <br />
 </p>
 
-[Microsoft PowerToys](https://github.com/microsoft/PowerToys) is a set of utilities for power users to tune and streamline their Windows 10 experience for greater productivity. To get more information on [PowerToys](https://docs.microsoft.com/windows/powertoys/), or any other tools and resources for [Windows development environments](https://docs.microsoft.com/windows/dev-environment/overview), go to [docs.microsoft.com](https://docs.microsoft.com/windows/powertoys/).
+[Microsoft PowerToys](https://github.com/microsoft/PowerToys) is a set of utilities for power users to tune and streamline their Windows 11 experience for greater productivity. To get more information on [PowerToys](https://docs.microsoft.com/windows/powertoys/), or any other tools and resources for [Windows development environments](https://docs.microsoft.com/windows/dev-environment/overview), go to [docs.microsoft.com](https://docs.microsoft.com/windows/powertoys/).
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/111210946-17223c00-858b-11eb-90c1-be411aab7107.png">
@@ -79,7 +79,7 @@
   <br />
 </p>
 
-[Nix package manager](https://nixos.org/) is a cross-platform package manager that utilizes a purely functional deployment model where software is installed into unique directories generated through cryptographic hashes. Choose from Thousands of Packages The Nix Packages collection (Nixpkgs) is a set of over 80 000 packages for the Nix package manager.
+[Nix package manager](https://nixos.org/) is a cross-platform package manager that utilizes a purely functional deployment model where software is installed into unique directories generated through cryptographic hashes. Choose from Thousands of Packages The Nix Packages collection (Nixpkgs) is a set of over 80,000 packages for the Nix package manager.
 
 **Single-user installation on Windows(WSL2):**
 
