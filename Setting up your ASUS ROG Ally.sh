@@ -1,3 +1,3 @@
-Code samples & snippets coming soon!
+Setup script coming soon!
 
-// Setting up ASUS ROG Ally
+// Setting up your ASUS ROG Ally
