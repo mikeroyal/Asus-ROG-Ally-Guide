@@ -16,13 +16,6 @@ A guide covering ASUS ROG Ally including the applications and tools that will ma
   <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/add4f817-7616-4769-ae37-67eec2da6441">
 </p>
 
-**Note 3:** This guide will constantly be updated with new info as becomes available.
-
-<p align="center">
-  <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/1b1c6219-1b79-4416-98c3-c11dcb271374">
-    <br />
-</p>
-
 # Table of Contents
 
 - [ASUS ROG Ally](#asus-rog-ally)
@@ -42,7 +35,7 @@ A guide covering ASUS ROG Ally including the applications and tools that will ma
 [ASUS ROG Ally](https://rog.asus.com/gaming-handhelds/rog-ally/rog-ally-2023/) is a handheld gaming computer developed by [ASUS](https://rog.asus.com/) in cooperation with [Advanced Micro Devices (AMD)](https://www.amd.com/). It allows users to play their entire Steam game library but can be modified by the user to run other gaming storefronts or applications.
 
 <p align="center">
-  <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/964f0ec6-3d73-4fd2-ae24-0b71e6f01946">
+  <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/e4c8c499-d025-49dc-bac9-d09eb31a4bd7)">
     <br />
 </p>
 
