@@ -119,6 +119,13 @@ HoloISO Desktop. Credit: [theVakhovskeIsTaken](https://github.com/theVakhovskeIs
     <br />
 </p>
 
+[ChimeraOS](https://chimeraos.org/) is a linux operating system that provides an out of the box couch gaming experience. It boots directly into Steam Big Picture and start playing your favorite games.
+
+<p align="center">
+  <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/b6377a2f-94c6-489b-9543-0850bb1c9868">
+    <br />
+</p>
+
 [WinesapOS](https://github.com/LukeShortCloud/winesapOS) is a project developed by [LukeShortCloud](https://github.com/LukeShortCloud) that provides an easy to setup installation of Linux. It can be used on a flash drive, SD card, HDD, SSD, NVMe, or any other storage device. The [release images](https://github.com/LukeShortCloud/winesapOS/releases) are based on SteamOS 3 and the KDE Plasma desktop environment to align with what Valve's [Steam Deck](https://store.steampowered.com/steamdeck/) uses.
 
 <p align="center">
