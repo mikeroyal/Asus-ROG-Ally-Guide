@@ -5,6 +5,7 @@
 ## Table of Contents
 
 - [Docks](#docks)
+  - [USB-C Hun=bs](#usb-c-hubs) 
   - [USB-C Adapters](#usb-c-adapters)
 - [Cases](#cases)
 - [Skins](#skins)
@@ -23,12 +24,38 @@
 
 [NexDock](https://nexdock.com/features/) is an accessory with a HDMI-in port and Type-C cable NexDock that turns the Asus Ally into a fully functional computer.
 
+
+### USB-C Hubs
+
+[Back to Top](#asus-rog-ally-accessories)
+
+[Anker USB-C Hub](https://www.anker.com/collections/hubs)
+
+[Anker USB-C Hub, PowerExpand 6-in-1 ](https://www.amazon.com/Anker-PowerExpand-Ethernet-Delivery-MacBook/dp/B08C9HZ5YT/)
+
+[Anker USB C Hub, 341 USB-C Hub (7-in-1) with 4K HDMI](https://www.amazon.com/Anker-Upgraded-Delivery-Pixelbook-A83460A2/dp/B07ZVKTP53/)
+
+[Anker 332 USB-C Hub (5-in-1) with 4K HDMI Display](https://www.amazon.com/Anker-Display-MacBook-Thinkpad-Laptops/dp/B0BQLLB61B/)
+
+[Hiearcool USB-C Hub](https://www.amazon.com/Hiearcool-MacBook-Multiport-Compatible-Nintendo/dp/B07WPTG7NX/)
+
+[Hiearcool USB-C Hub Carbon Black](https://www.amazon.com/Hiearcool-Adapter-MacBook-Air-Carbon-Black/dp/B09YL6YBSC/)
+
+[Acodot USB C Hub, Acodot 9 in 1 USB-C to 4K@60HZ HDMI Multiport Adapter](https://www.amazon.com/USB-Hub-Acodot-Multiport-Adapter/dp/B0BKPYY8BC/)
+
 ### USB-C Adapters
 
 [Back to Top](#asus-rog-ally-accessories)
 
+[JSAUX USB-C to USB Adapter (2 Pack)](https://www.amazon.com/JSAUX-Adapter-Compatible-MacBook-Samsung/dp/B07BS8SRWH/)
 
-[Anker USB C Hub](https://www.anker.com/collections/hubs)
+[Anker USB-C Adapter (2 Pack)](https://www.amazon.com/Adapter-Anker-High-Speed-Transfer-Notebook/dp/B08HZ6PS61/)
+
+[Basesailor USB to USB-C Adapter (2 Pack)](https://www.amazon.com/Female-Adapter-Charger-Airpods-Samsung/dp/B079LYHNSR/)
+
+[Syntech USB-C to USB Adapter (2 Pack)](https://www.amazon.com/Syntech-Adapter-Thunderbolt-Compatible-MacBook/dp/B07CVX3516/)
+
+[Apple USB-C to USB Adapter](https://www.amazon.com/Apple-USB-C-to-USB-Adapter/dp/B00VU2OID2/)
 
 ## Cases
 
