@@ -45,19 +45,19 @@ ASUS ROG Ally device. Source: [ASUS ROG Ally](https://rog.asus.com/gaming-handhe
 
 **ASUS ROG Ally Specs:**
 
-Operating system: Windows 11.
+Operating system: Windows 11 Home.
 
 User Interface (UI): Customized ASUS Armoury Crate.
 
 System on a chip (SoC): AMD Ryzen Z1 Extreme APU (Customized Ryzen 7 7840U with Radeon 780M graphics).
 
-CPU: Zen 4, 6-core, 12-threads, variable frequency @ 3.3 GHz.
+CPU: Zen 4, 8-core, 16-threads, variable frequency @ 3.3-5.1 GHz.
 
-Memory: 16 GB LPDDR5X @ 7500 MT/s.
+Memory: 16 GB LPDDR5 @ 6400 MT/s.
 
 Storage Options:
 
-- Base model: 256 GB (PCIe Gen 4) SSD and UHS-II microSD slotfor $599(US).
+- Base model: 512 GB (PCIe Gen 4) SSD and UHS-II microSD slot for $599(US).
 - Top model: 512 GB (PCIe Gen 4) SSD and UHS-II microSD slot for $699(US).
 
 IO: ROG XG Mobile connector, 3.5mm headphone jack, and USB-C.
@@ -66,11 +66,11 @@ IO: ROG XG Mobile connector, 3.5mm headphone jack, and USB-C.
 
 Removable Storage: **microSD** supports up to 2TB of additional storage for games.
 
-Display: 7-inch,  1920 x 1080 LCD, native 1080p @ 120Hz (500 nits peak brightness, 5ms response time).
+Display: 7-inch,  1920 x 1080 LCD, native 1080p @ 120Hz (7 ms, 500 nits, 100% sRGB, FreeSync).
 
 Docked: Up to 8K @ 60Hz or 4K @ 120Hz.
 
-Graphics: RDNA 3 with 12 GPU Compute Units (2.8 Teraflops of performance), variable frequency @  GHz.
+Graphics: RDNA 3 with 12 GPU Compute Units (8.6 Teraflops of performance).
 
 Speakers: Front-facing dual speakers with Dolby Atmos.
 
