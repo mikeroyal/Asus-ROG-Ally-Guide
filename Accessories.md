@@ -5,7 +5,7 @@
 ## Table of Contents
 
 - [Docks](#docks)
-  - [USB-C Hunbs](#usb-c-hubs) 
+  - [USB-C Hubs](#usb-c-hubs) 
   - [USB-C Adapters](#usb-c-adapters)
 - [Cases](#cases)
 - [Skins](#skins)
