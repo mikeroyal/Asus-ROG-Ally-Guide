@@ -66,8 +66,6 @@ Removable Storage: **microSD** supports up to 2TB of additional storage for game
 
 Display: 7-inch,  1920 x 1080 LCD, native 1080p @ 120Hz (7 ms, 500 nits, 100% sRGB, FreeSync).
 
-Docked: Up to 8K @ 60Hz or 4K @ 120Hz.
-
 Graphics: RDNA 3 with 12 GPU Compute Units (8.6 Teraflops of performance).
 
 Speakers: Front-facing dual speakers with Dolby Atmos.
