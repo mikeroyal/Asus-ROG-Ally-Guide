@@ -73,11 +73,11 @@ ROG Ally Travel Case. Credit: [Asus](https://rog.asus.com/gaming-handhelds/acces
 
 [Back to Top](#asus-rog-ally-accessories)
 
-
-
 ## Headphones
 
 [Back to Top](#asus-rog-ally-accessories)
+
+ * [ROG Cetra True Wireless gaming headphones](https://rog.asus.com/headsets-audio/in-ear-headphone/rog-cetra-true-wireless-model/)
 
  * [Sony WH-1000XM5](https://www.sony.com/lr/electronics/headband-headphones/wh-1000xm5)
 
