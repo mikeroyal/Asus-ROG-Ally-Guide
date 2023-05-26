@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+- [ROG XG Mobile](#rog-xg-mobile)
 - [Docks](#docks)
   - [USB-C Hubs](#usb-c-hubs) 
   - [USB-C Adapters](#usb-c-adapters)
@@ -17,6 +18,25 @@
   - [SSDs](#ssds)
 - [Power](#power)
   - [Chargers](#chargers)
+
+
+## ROG XG Mobile
+
+[Back to Top](#asus-rog-ally-accessories)
+
+[ROG's XG Mobile](https://rog.asus.com/external-graphic-docks/rog-xg-mobile-2023-model/) is an ecosystem of external GPUs with a built-in I/O hub, allowing higher bandwidth to devices with a proprietary PCIe connection. Upgraded to PCIe 4.0 x8, the XG Mobile features up to an RTX 4090 GPU.
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/e3c90202-d30a-400c-b3d7-11284c90712e">
+</p>
+
+ROG XG Mobile. Credit: [Asus](https://rog.asus.com/external-graphic-docks/rog-xg-mobile-2023-model/)
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/a6e4b8c5-2fd3-42a3-be6b-427f73faed12">
+</p>
+
+ROG XG Mobile proprietary PCIe connector. Credit: [Asus](https://rog.asus.com/external-graphic-docks/rog-xg-mobile-2023-model/)
 
 ## Docks
 
