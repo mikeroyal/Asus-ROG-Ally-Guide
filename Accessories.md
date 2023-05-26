@@ -42,8 +42,13 @@ ROG XG Mobile proprietary PCIe connector. Credit: [Asus](https://rog.asus.com/ex
 
 [Back to Top](#asus-rog-ally-accessories)
 
-[NexDock](https://nexdock.com/features/) is an accessory with a HDMI-in port and Type-C cable NexDock that turns the Asus Ally into a fully functional computer.
+[ROG Gaming Charger Dock](https://rog.asus.com/power-protection-gadgets/chargers-and-adapters/rog-gaming-charger-dock/)
 
+<p align="center">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/a2a83195-e177-4fb0-84dc-67ab88abed9e">
+</p>
+
+ROG Gaming Charger Dock. Credit: [Asus](https://rog.asus.com/power-protection-gadgets/chargers-and-adapters/rog-gaming-charger-dock/)
 
 ### USB-C Hubs
 
