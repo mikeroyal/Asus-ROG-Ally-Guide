@@ -9,9 +9,7 @@
 
 A guide covering ASUS ROG Ally including the applications and tools that will make you a better and more efficient experience with your ASUS Ally device.
 
-**Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf) or the handy online tool [AnyConv](https://anyconv.com/md-to-pdf-converter/).**
-
-**Note 2:** For those wanting to view this ASUS ROG Ally Guide in a different language like Chinese, Japanese, Spanish, French, Italian, or German. I would recommend using the [Google Translate for Websites](https://translate.google.com/) just Copy & Paste the URL for this repo and select the Langauge you want it translated to.
+**Note :** For those wanting to view this ASUS ROG Ally Guide in a different languages like Chinese, Japanese, Spanish, French, Italian, or German. I would recommend using the [Google Translate for Websites](https://translate.google.com/) just Copy & Paste the URL for this repo and select the Langauge you want it translated to.
 
 
 <p align="center">
