@@ -70,9 +70,15 @@
   Etcher UI
 </p>
 
-### SteamOS
+[ChimeraOS](https://chimeraos.org/) is a linux operating system that provides an out of the box couch gaming experience. It boots directly into Steam Big Picture and start playing your favorite games.
 
-[Back to the Top](#operating-systems)
+<p align="center">
+  <img src="https://github.com/mikeroyal/Steam-Deck-Guide/assets/45159366/b916cd2f-1b8e-43c7-8833-3c3b0d0715ef">
+</p>
+
+ ChimeraOS Desktop. Credit: [ChimeraOS](https://chimeraos.org/)
+ 
+### SteamOS
 
 [Steam OS 3.0](https://store.steampowered.com/steamdeck) is an [immutable](https://en.wikipedia.org/wiki/Immutable_object) Operating System(OS) using the [KDE Plasma](https://kde.org/plasma-desktop) desktop. This allows you to install applications in containers using [Flatpak](https://flatpak.org/), rather than onto the root filesystem. This means not only that the installation of applications is isolated from the core filesystem, but also that the ability for malicious applications to compromise/break your system is significantly reduced.
 
@@ -116,13 +122,6 @@ HoloISO Desktop. Credit: [theVakhovskeIsTaken](https://github.com/theVakhovskeIs
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/45159366/179671757-008ac6ef-ee95-43e9-b6eb-2f9bb928f91b.png">
-    <br />
-</p>
-
-[ChimeraOS](https://chimeraos.org/) is a linux operating system that provides an out of the box couch gaming experience. It boots directly into Steam Big Picture and start playing your favorite games.
-
-<p align="center">
-  <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/b6377a2f-94c6-489b-9543-0850bb1c9868">
     <br />
 </p>
 
