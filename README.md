@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/2af1f347-7525-4267-b629-becbf1e80f06">
+  <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/7f1cc60e-ba72-4d84-9d37-64ab3d5d66b2">
     <br />
       ASUS ROG Ally Guide
 </h1>	
@@ -49,7 +49,7 @@ User Interface (UI): Customized ASUS Armoury Crate.
 
 System on a chip (SoC): AMD Ryzen Z1 Extreme APU (Customized Ryzen 7 7840U with Radeon 780M graphics).
 
-CPU: Zen 4, 8-core, 16-threads, variable frequency @ 3.3-5.1 GHz.
+CPU: Zen 4, 8-core, 16-threads, turbos up to 5.1 GHz.
 
 Memory: 16 GB LPDDR5 @ 6400 MT/s.
 
