@@ -98,6 +98,12 @@ ROG Ally Travel Case. Credit: [Asus](https://rog.asus.com/gaming-handhelds/acces
 
 [Back to Top](#asus-rog-ally-accessories)
 
+ [ArmorSuit MilitaryShield Full Wrap Skin for Asus ROG Ally](https://www.armorsuit.com/products/pre-order-armorsuit-militaryshield-full-wrap-skin-for-asus-rog-ally)
+ 
+ <p align="center">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/fb67d981-a575-4d65-ad42-338c22ba894a">
+</p>
+
 ## Headphones
 
 [Back to Top](#asus-rog-ally-accessories)
