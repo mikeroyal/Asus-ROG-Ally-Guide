@@ -16,7 +16,7 @@
 
 **Note: Windows 11 comes presinstalled on the ASUS ROG Ally device.**
 
-### Creating a Windows 10/11 Bootable Device (MicroSD or USB)
+### Creating a Windows 11 Bootable Device (MicroSD or USB)
 
 [Rufus](https://rufus.ie/) is a utility that helps format and create bootable USB flash drives.
 
@@ -70,17 +70,18 @@
   Etcher UI
 </p>
 
-[ChimeraOS](https://chimeraos.org/) is a linux operating system that provides an out of the box couch gaming experience. It boots directly into Steam Big Picture and start playing your favorite games.
+ 
+## SteamOS
+
+[ChimeraOS](https://chimeraos.org/) is a linux operating system that provides an out of the box couch gaming experience. It boots directly into Steam Big Picture and start playing your favorite games. **Note: If you're planning to put Linux on your ROG Ally I would recommend using ChimeraOS.**
 
 <p align="center">
   <img src="https://github.com/mikeroyal/Steam-Deck-Guide/assets/45159366/b916cd2f-1b8e-43c7-8833-3c3b0d0715ef">
 </p>
 
  ChimeraOS Desktop. Credit: [ChimeraOS](https://chimeraos.org/)
- 
-### SteamOS
 
-[Steam OS 3.0](https://store.steampowered.com/steamdeck) is an [immutable](https://en.wikipedia.org/wiki/Immutable_object) Operating System(OS) using the [KDE Plasma](https://kde.org/plasma-desktop) desktop. This allows you to install applications in containers using [Flatpak](https://flatpak.org/), rather than onto the root filesystem. This means not only that the installation of applications is isolated from the core filesystem, but also that the ability for malicious applications to compromise/break your system is significantly reduced.
+[Steam OS 3.0](https://store.steampowered.com/steamdeck) is an [immutable](https://en.wikipedia.org/wiki/Immutable_object) Operating System(OS) using the [KDE Plasma](https://kde.org/plasma-desktop) desktop. This allows you to install applications in containers using [Flatpak](https://flatpak.org/), rather than onto the root filesystem. This means not only that the installation of applications is isolated from the core filesystem, but also that the ability for malicious applications to compromise/break your system is significantly reduced. **Note: SteamOS 3.0 is not available for download yet.**
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/45159366/157353163-6f5c4c1a-a89f-4ee5-9ffe-1d9f991c773c.png">
@@ -103,9 +104,24 @@
 
 HoloISO Desktop. Credit: [theVakhovskeIsTaken](https://github.com/theVakhovskeIsTaken/)
 
-### Other Linux Distributions
+## Other Linux Distributions
 
 [Back to the Top](#operating-systems)
+
+[Batocera](https://batocera.org/)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/4238928/163190916-d39124bb-c67e-42e4-a97c-dac78684c452.png">
+    <br />
+      Emulation Station Front End
+</p>
+
+[Nobara Project](https://gitlab.com/GloriousEggroll/nobara-images) is an unofficial Fedora Linux Spin that's tailored for Gaming. It adds the necessary packages/tools (such as [Lutris](https://lutris.net/) and [ProtonUp-Qt](https://davidotek.github.io/protonup-qt/)), and fixes issues to make Fedora awesome for gaming. This project is developed and maintained by [Thomas Crider AKA Glorious Eggroll](https://gitlab.com/GloriousEggroll).
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/179671757-008ac6ef-ee95-43e9-b6eb-2f9bb928f91b.png">
+    <br />
+</p>
 
 [NixOS](https://nixos.org/) is a Linux distribution built on top of the [Nix package manager](https://nixos.wiki/wiki/Nix). It has tools dedicated to DevOps and deployment tasks.
 
@@ -116,13 +132,6 @@ HoloISO Desktop. Credit: [theVakhovskeIsTaken](https://github.com/theVakhovskeIs
  <img src="https://user-images.githubusercontent.com/45159366/128645111-b2a92dd2-f246-4df0-b05c-5b0ffce05448.png">
   <br />
   NixOS with the Plasma Desktop
-</p>
-
-[Nobara Project](https://gitlab.com/GloriousEggroll/nobara-images) is an unofficial Fedora Linux Spin that's tailored for Gaming. It adds the necessary packages/tools (such as [Lutris](https://lutris.net/) and [ProtonUp-Qt](https://davidotek.github.io/protonup-qt/)), and fixes issues to make Fedora awesome for gaming. This project is developed and maintained by [Thomas Crider AKA Glorious Eggroll](https://gitlab.com/GloriousEggroll).
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/45159366/179671757-008ac6ef-ee95-43e9-b6eb-2f9bb928f91b.png">
-    <br />
 </p>
 
 [WinesapOS](https://github.com/LukeShortCloud/winesapOS) is a project developed by [LukeShortCloud](https://github.com/LukeShortCloud) that provides an easy to setup installation of Linux. It can be used on a flash drive, SD card, HDD, SSD, NVMe, or any other storage device. The [release images](https://github.com/LukeShortCloud/winesapOS/releases) are based on SteamOS 3 and the KDE Plasma desktop environment to align with what Valve's [Steam Deck](https://store.steampowered.com/steamdeck/) uses.
@@ -172,14 +181,6 @@ WineapOS Desktop. Credit: [LukeShortCloud](https://github.com/LukeShortCloud)
   <img src="https://user-images.githubusercontent.com/45159366/142779593-390dfd58-a246-4299-baf2-adf0207da696.png">
     <br />
       Pop!_OS Desktop
-</p>
-
-[Batocera](https://batocera.org/)
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/4238928/163190916-d39124bb-c67e-42e4-a97c-dac78684c452.png">
-    <br />
-      Emulation Station Front End
 </p>
 
 
