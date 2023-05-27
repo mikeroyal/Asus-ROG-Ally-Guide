@@ -89,7 +89,7 @@
     SteamOS 3.0 with KDE Plasma Desktop
 </p>
 
-[SteamOS Btrfs](https://gitlab.com/popsulfr/steamos-btrfs/) is a project that will help get you from using ext4 on your Steam Deck's microSD card or home directory, to [Btrfs](https://btrfs.wiki.kernel.org/).
+[SteamOS Btrfs](https://gitlab.com/popsulfr/steamos-btrfs/) is a project that will help get you from using ext4 on your device's microSD card or home directory, to [Btrfs](https://btrfs.wiki.kernel.org/).
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/45159366/172273657-f184233d-56d8-429b-9a63-d8a2b8e7412b.png">
