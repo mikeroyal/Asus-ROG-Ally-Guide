@@ -54,6 +54,8 @@ ROG Gaming Charger Dock. Credit: [Asus](https://rog.asus.com/power-protection-ga
 
 [Back to Top](#asus-rog-ally-accessories)
 
+[JSAUX Omnicase 2 Pro 12-in-1 Docking Station](https://jsaux.com/pages/omnicase2-pro) 
+
 [Anker USB-C Hub](https://www.anker.com/collections/hubs)
 
 [Anker USB-C Hub, PowerExpand 6-in-1 ](https://www.amazon.com/Anker-PowerExpand-Ethernet-Delivery-MacBook/dp/B08C9HZ5YT/)
