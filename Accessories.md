@@ -10,6 +10,7 @@
   - [USB-C Adapters](#usb-c-adapters)
 - [Cases](#cases)
 - [Skins](#skins)
+- [Animated Wallpapers](#animated-wallpapers)
 - [Headphones](#headphones)
 - [Controllers](#controllers) 
 - [Screen Protectors](#screen-protectors)
@@ -105,6 +106,14 @@ ROG Ally Travel Case. Credit: [Asus](https://rog.asus.com/gaming-handhelds/acces
  <p align="center">
  <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/fb67d981-a575-4d65-ad42-338c22ba894a">
 </p>
+
+## Animated Wallpapers
+
+[Back to Top](#asus-rog-ally-accessories)
+
+[Wallpaper Engine](https://store.steampowered.com/app/431960/Wallpaper_Engine/) (£2.99) is a tool enables you to use live wallpapers on your Windows desktop. Various types of animated wallpapers are supported, including 3D and 2D animations, websites, videos and even certain applications. 
+
+[Lively Wallpaper](https://rocksdanister.github.io/lively/) is a Windows application designed to turn GIFs, games, and videos into animated wallpapers. 
 
 ## Headphones
 
