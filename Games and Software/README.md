@@ -18,17 +18,18 @@
 
 ### Getting Software on Windows
 
+
+[Microsoft PowerToys]([https://github.com/microsoft/PowerToys](https://docs.microsoft.com/windows/powertoys/)) is a set of utilities for power users to tune and streamline their Windows 11 experience for greater productivity.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/111210946-17223c00-858b-11eb-90c1-be411aab7107.png">
+</p>
+
 [WingetUI](https://github.com/martinet101/WingetUI) is a GUI Store for the most common cli package managers, such as Winget and Scoop. It's developed by [Martí Climent AKA martinet101](https://github.com/martinet101).
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/169711126-0d56a8fe-229e-4d4b-a8c5-d44c1a074b59.png">
   <br />
-</p>
-
-[Microsoft PowerToys](https://github.com/microsoft/PowerToys) is a set of utilities for power users to tune and streamline their Windows 11 experience for greater productivity. To get more information on [PowerToys](https://docs.microsoft.com/windows/powertoys/), or any other tools and resources for [Windows development environments](https://docs.microsoft.com/windows/dev-environment/overview), go to [docs.microsoft.com](https://docs.microsoft.com/windows/powertoys/).
-
-<p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/111210946-17223c00-858b-11eb-90c1-be411aab7107.png">
 </p>
 
 [Chris Titus Tech Windows Utility](https://github.com/ChrisTitusTech/winutil) is the Ultimate Windows 10 & 11 script designed to be a swiss army knife of Windows tools to help setup and optimize machines. [The Ultimate Windows Utility | Chris Titus Tech YouTube.](https://www.youtube.com/watch?v=tPRv-ATUBe4)
