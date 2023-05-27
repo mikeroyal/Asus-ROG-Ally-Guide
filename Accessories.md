@@ -142,16 +142,13 @@ ROG Ally Travel Case. Credit: [Asus](https://rog.asus.com/gaming-handhelds/acces
  
  * [Airpods Max](https://www.apple.com/airpods-max/)
  
- **Setting up Airpods on the Steam Deck**
- 
- 
- * Tap on the Steam button. This will open up the sidebar.
+ **Setting up Airpods on the ROG Ally device**
   
  * Navigate to Settings > Bluetooth.
   
  * After this, open the lid on your Airpods, and don’t pull out the earbuds immediately. Hold the button at the back of the case and wait until the light starts flashing on your Airpods.
   
- * The flashing light indicates the AirPods are in pairing mode. Tap on the Airpods option in the Steam Deck and wait till the connection is established.
+ * The flashing light indicates the AirPods are in pairing mode. Tap on the Airpods option on your ROG Ally device and wait till the connection is established.
 
 ## Controllers
 
