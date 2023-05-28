@@ -15,6 +15,7 @@ If you just got your ASUS ROG Ally, or have had it for a while and want to learn
  * [Asus ROG Ally vs Steam Deck | The Best PC Handhelds Today | Taki Udon](https://www.youtube.com/watch?v=reXJ8W0hx_g) 
  * [ASUS ROG ALLY Review, The Most Powerful Handheld? | ETA Prime YouTube](https://www.youtube.com/watch?v=J0W9fwQ2HfE&pp=ygUNYXN1cyByb2cgYWxseQ%3D%3D) 
  * [Linux On The ASUS ROG Ally First Look! | ETA Prime YouTube](https://www.youtube.com/watch?v=6r8t90fW7Kg)
+ * [Here's how I upgraded the SSD of the ASUS ROG Ally | Gadget Pilipinas](https://www.youtube.com/watch?v=qIj16PDHMLE)
 
 ## Asus ROG Ally UI Overview
 
