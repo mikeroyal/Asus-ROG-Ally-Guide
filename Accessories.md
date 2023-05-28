@@ -97,6 +97,28 @@ ROG Gaming Charger Dock. Credit: [Asus](https://rog.asus.com/power-protection-ga
 
 ROG Ally Travel Case. Credit: [Asus](https://rog.asus.com/gaming-handhelds/accessories/rog-ally-travel-case/)
 
+[CitySlicker Case for ASUS ROG Ally (Currently Soldout)](https://www.sfbags.com/products/cityslicker-for-asus-rog-ally)
+ 
+<p align="center">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/5272b1f2-0b87-4ac5-af06-313ea97a0746">
+</p>
+
+**Note: The cases below were originally designed for the Steam Deck, though, YouTuber reviews have shown these cases work great for the Asus ROG Ally as well providing great protection for those travelling with their device. Otherwise, case options are limited until the ROG Ally is released on June 13th.**
+
+[JSAUX Carrying Case](https://jsaux.com/products/steam-deck-carrying-case)
+
+[Boffdock Large Carrying Case](https://www.amazon.com/Carrying-Ultra-thickness-Boffdock-Removable-Accessories-Carry/dp/B0BLHKKW2Q)
+
+[tomtoc FancyCase-A05 Carrying Case](https://www.tomtoc.com/products/fancycase-a05-steam-deck-case)
+
+[tomtoc Arccos Series Carrying Bag for Handheld and Accessories](https://www.tomtoc.com/products/tomtoc-arccos-series-carrying-bag-for-steam-deck-console-and-accessories-black)
+
+[DEVASO Travel Carrying Case](https://www.amazon.com/DEVASO-Carrying-Professional-Waterproof-Accessories/dp/B0B182BTH1)
+
+[Migitec Waterproof Hard Carrying Case](https://www.amazon.com/Migitec-Waterproof-Carrying-Compatible-Protective/dp/B0B9P73H63)
+
+[Sonigrace Carrying Case](https://www.amazon.com/Carrying-Compatible-Nintendo-Switch-Steam-Deck/dp/B0BVZ61J51)
+
 ## Skins
 
 [Back to Top](#asus-rog-ally-accessories)
