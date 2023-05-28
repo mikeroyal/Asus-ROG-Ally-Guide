@@ -264,15 +264,30 @@ ROG Ally Travel Case. Credit: [Asus](https://rog.asus.com/gaming-handhelds/acces
 
 [Back to Top](#asus-rog-ally-accessories)
 
-The Asus Ally supports expansion via a MicroSD card slot which supports up to 2tb MicroSD cards. Additionally it uses a 2230 m.2 SSD drive, meaning that some users have sourced large (up to 2TB!) drives to upgrade their Decks.
+The Asus Ally supports expansion via a MicroSD card slot which supports up to **2TB MicroSD UHS-I & UHS-II cards**. Additionally it uses a 2230 m.2 SSD drive, meaning that some users have sourced large (up to 2TB!) drives to upgrade their Devices.
 
 ### MicroSD Cards
 
- * [Lexar MicroSD cards on Amazon](https://www.amazon.com/lexar-micro-sd-cards/s?k=lexar+micro+sd+cards)
+* [Lexar MicroSD cards on Amazon](https://www.amazon.com/lexar-micro-sd-cards/s?k=lexar+micro+sd+cards)
 
- * [SanDisk 1TB MicroSD Card on Amazon](https://www.amazon.com/SanDisk-1TB-Micro-SD-Cards/s?k=SanDisk+1TB+Micro+SD+Cards)
+* [SanDisk 1TB MicroSD Card on Amazon](https://www.amazon.com/SanDisk-1TB-Micro-SD-Cards/s?k=SanDisk+1TB+Micro+SD+Cards)
 
- * [Samsung 512GB EVO Select MicroSD Card on Amazon](https://www.amazon.com/SAMSUNG-Adapter-microSDXC-MB-ME512KA-AM/dp/B09B1HMJ9Z)
+* [Samsung 512GB EVO Select MicroSD Card on Amazon](https://www.amazon.com/SAMSUNG-Adapter-microSDXC-MB-ME512KA-AM/dp/B09B1HMJ9Z)
+
+**Note:** **UHS (Ultra High Definition)** is the next generation bus interface used to enable high-speed data transfer for SDHC and SDXC cards. There are classes UHS-I (Ultra High-Speed Phase I), UHS-II (Ultra High-Speed Phase II), and UHS-III (Ultra High-Speed Phase III). For daily usage, a microSD or SD card with UHS-I interface would be sufficient with storage capacity up 1TB. If you can’t satisfy your needs with it, you can go for SD cards with UHS-II interface with current storage capcity up 256GB.
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/08860aa9-4f9b-456f-80cd-ba4f83e83828">
+</br>
+</p>
+
+Image Credit: [SD Association](https://www.sdcard.org/)
+
+## YouTube Videos for SSD Upgrades
+
+ * [Here's how I upgraded the SSD of the ASUS ROG Ally | Gadget Pilipinas](https://www.youtube.com/watch?v=qIj16PDHMLE)
+
+ * [How to clone NVMe SSD to new or larger NVMe SSD (Easy Step by Step Tutorial) | Tech Guy Charlie](https://www.youtube.com/watch?v=ElJJ5Sl4DoQ)
 
 ### SSDs
 
