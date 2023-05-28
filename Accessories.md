@@ -296,7 +296,7 @@ The Asus Ally supports expansion via a MicroSD card slot which supports up to **
 
 * [Samsung 512GB EVO Select MicroSD Card on Amazon](https://www.amazon.com/SAMSUNG-Adapter-microSDXC-MB-ME512KA-AM/dp/B09B1HMJ9Z)
 
-**Note:** **UHS (Ultra High Definition)** is the next generation bus interface used to enable high-speed data transfer for SDHC and SDXC cards. There are classes UHS-I (Ultra High-Speed Phase I), UHS-II (Ultra High-Speed Phase II), and UHS-III (Ultra High-Speed Phase III). For daily usage, a microSD or SD card with UHS-I interface would be sufficient with storage capacity up 1TB. If you can’t satisfy your needs with it, you can go for SD cards with UHS-II interface with current storage capcity up 256GB.
+**Note:** **UHS (Ultra High Definition)** is the next generation bus interface used to enable high-speed data transfer for SDHC and SDXC cards. There are classes UHS-I (Ultra High-Speed Phase I), UHS-II (Ultra High-Speed Phase II), and UHS-III (Ultra High-Speed Phase III). For daily usage, a microSD or SD card with UHS-I interface would be sufficient with storage capacity up 1TB. If you can’t satisfy your needs with it, you can go for microSD or SD cards with UHS-II interface with current storage capcity up 256GB.
 
 <p align="center">
  <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/08860aa9-4f9b-456f-80cd-ba4f83e83828">
