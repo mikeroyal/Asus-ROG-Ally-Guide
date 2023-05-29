@@ -296,7 +296,7 @@ The Asus Ally supports expansion via a MicroSD card slot which supports up to **
 
 * [Samsung 512GB EVO Select MicroSD Card on Amazon](https://www.amazon.com/SAMSUNG-Adapter-microSDXC-MB-ME512KA-AM/dp/B09B1HMJ9Z)
 
-**Note:** **UHS (Ultra High Definition)** is the next generation bus interface used to enable high-speed data transfer for SDHC and SDXC cards. There are classes UHS-I (Ultra High-Speed Phase I), UHS-II (Ultra High-Speed Phase II), and UHS-III (Ultra High-Speed Phase III). For daily usage, a microSD or SD card with UHS-I interface would be sufficient with storage capacity up 1TB. If you can’t satisfy your needs with it, you can go for microSD or SD cards with UHS-II interface with current storage capacity up 256GB.
+**Note:** **UHS (Ultra High Definition)** is the next generation bus interface used to enable high-speed data transfer for SDHC and SDXC cards. There are classes UHS-I (Ultra High-Speed Phase I), UHS-II (Ultra High-Speed Phase II), and UHS-III (Ultra High-Speed Phase III). For daily usage, a microSD or SD card with UHS-I interface would be sufficient with storage capacity up to 1TB. If this doesn't satisfy your needs, you can go for microSD or SD cards with UHS-II interface with current storage capacity up to 256GB.
 
 <p align="center">
  <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/08860aa9-4f9b-456f-80cd-ba4f83e83828">
@@ -336,28 +336,19 @@ Image Credit: [SD Association](https://www.sdcard.org/)
 
 ### Chargers
 
-* [Anker 45w Ultra Slim Charging PowerPort](https://www.amazon.com/Charger-Anker-Ultra-Slim-PowerPort-Laptops/dp/B0841J6CMK)
-
-* [Anker PowerCore III (45W USB-C PD output)](https://www.amazon.com/Anker-PowerCore-Capacity-Delivery-Portable/dp/B08FX8GKJ5)
-
-* [Anker 747 Charger (GaNPrime 150W)](https://www.anker.com/products/a2340)
-
-* [Anker 737 Charger (GaNPrime 120W)](https://www.anker.com/products/a2148)
-
-* [Anker 736 Charger (Nano II 100W)](https://www.anker.com/products/a2145)
- 
-* [Anker 735 Charger (GaNPrime 65W)](https://www.anker.com/products/a2668)
- 
-* [Anker 733 Power Bank (GaNPrime PowerCore 65W)](https://www.anker.com/products/a1651)
-
-* [HenHot 65W USB-C Portable Charger](https://www.amazon.com/HenHot-20000mAh-Laptop-Portable-Charger/dp/B09SLCV819)
-
+* [Baseus Adaman Power Bank 65W 20000mAh](https://www.baseus.com/products/adaman-power-bank-65w-20000mah)
+* [Baseus Amblight Power Bank 65W 30000mAh](https://www.baseus.com/products/amblight-power-bank-65w-30000mah)
+* [Baseus Blade Laptop Power Bank 100W 20000mAh](https://www.baseus.com/products/blade-laptop-power-bank-100w-20000mah)
 * [Baseus 65W USB-C Power Bank with Built-in Cable](https://www.amazon.com/Portable-Charger-Baseus-20000mAh-Charging/dp/B08THFDRSZ)
-
- [Omni 20+ 20000mAh Laptop Power Bank](https://www.omnicharge.co/products/omni-20/)
- 
-* [MAXOAK Portable Laptop Charger(26756mAh/99Wh), Portable Power Station W/1x120V AC Outlet PD 45W USB-C Solar Generator Battery Backup Power Supply](https://www.amazon.com/Portable-TSA-Approved-MAXOAK-26756mAh-Lighting-Bluetti/dp/B07VWNV5S6)
- 
-* [MAXOAK K2 185Wh/50000mAh Power Bank for Laptop](https://maxoak.net/products/maxoak-k2-185Wh-50000mah-power-bank)
-
+* [Baseus GaN2 3 Ports Fast Charger 65W](https://www.baseus.com/products/gan2-3-ports-fast-charger-65w)
+* [Baseus GaN2 4 Ports Fast Charger 100W](https://www.baseus.com/products/gan2-4-ports-fast-charger-100w)
+* [Baseus GaN2 Pro 3 Ports USB-C Fast Charger 120W](https://www.baseus.com/products/gan2-pro-3-ports-usb-c-fast-charger-120w)
+* [Anker 747 Charger (GaNPrime 150W)](https://www.anker.com/products/a2340)
+* [Anker 737 Charger (GaNPrime 120W)](https://www.anker.com/products/a2148)
+* [Anker 736 Charger (Nano II 100W)](https://www.anker.com/products/a2145) 
+* [Anker 735 Charger (GaNPrime 65W)](https://www.anker.com/products/a2668) 
+* [Anker 733 Power Bank (GaNPrime PowerCore 65W)](https://www.anker.com/products/a1651)
 * [Anker 525 Power Bank 20000mAh](https://www.anker.com/products/a1287?listingPlan=b&variant=41110977642646&discount=WS24A1287011)
+* [HenHot 65W USB-C Portable Charger](https://www.amazon.com/HenHot-20000mAh-Laptop-Portable-Charger/dp/B09SLCV819)
+* [Omni 20+ 20000mAh Power Bank](https://www.omnicharge.co/products/omni-20/)
+* [MAXOAK K2 185Wh/50000mAh Power Bank](https://maxoak.net/products/maxoak-k2-185Wh-50000mah-power-bank)
