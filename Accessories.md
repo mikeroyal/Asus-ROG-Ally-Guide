@@ -307,9 +307,8 @@ Image Credit: [SD Association](https://www.sdcard.org/)
 
 ## YouTube Videos for SSD Upgrades
 
+ * [ROG Ally SSD Upgrade! Add More Storage So You Can Play All Your Games | ETA Prime](https://www.youtube.com/watch?v=8Oxj5P-JLHY&pp=ygUJZXRhIHByaW1l)
  * [Here's how I upgraded the SSD of the ASUS ROG Ally | Gadget Pilipinas](https://www.youtube.com/watch?v=qIj16PDHMLE)
-
- * [How to clone NVMe SSD to new or larger NVMe SSD (Easy Step by Step Tutorial) | Tech Guy Charlie](https://www.youtube.com/watch?v=ElJJ5Sl4DoQ)
 
 ### SSDs
 
