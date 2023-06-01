@@ -123,7 +123,13 @@ ROG Ally Travel Case. Credit: [Asus](https://rog.asus.com/gaming-handhelds/acces
 
 [Back to Top](#asus-rog-ally-accessories)
 
- [ArmorSuit MilitaryShield Full Wrap Skin for Asus ROG Ally](https://www.armorsuit.com/products/pre-order-armorsuit-militaryshield-full-wrap-skin-for-asus-rog-ally)
+[ROG Ally Skins by SopiGuard](https://sopiguard.com/products/for-rog-ally)
+
+ <p align="center">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/a2987c89-2127-4f45-bdf2-1be22848d060">
+</p>
+
+[ArmorSuit MilitaryShield Full Wrap Skin for Asus ROG Ally](https://www.armorsuit.com/products/pre-order-armorsuit-militaryshield-full-wrap-skin-for-asus-rog-ally)
  
  <p align="center">
  <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/fb67d981-a575-4d65-ad42-338c22ba894a">
