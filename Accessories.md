@@ -105,8 +105,6 @@ ROG Ally Travel Case. Credit: [Asus](https://rog.asus.com/gaming-handhelds/acces
 
 **Note: The cases below were originally designed for the Steam Deck, though, YouTuber reviews have shown these cases work great for the Asus ROG Ally as well providing great protection for those travelling with their device. Otherwise, case options are limited until the ROG Ally is released on June 13th.**
 
-[JSAUX Carrying Case](https://jsaux.com/products/steam-deck-carrying-case)
-
 [Boffdock Large Carrying Case](https://www.amazon.com/Carrying-Ultra-thickness-Boffdock-Removable-Accessories-Carry/dp/B0BLHKKW2Q)
 
 [tomtoc FancyCase-A05 Carrying Case](https://www.tomtoc.com/products/fancycase-a05-steam-deck-case)
