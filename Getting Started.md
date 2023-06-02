@@ -4,7 +4,7 @@
 
 If you just got your ASUS ROG Ally, or have had it for a while and want to learn about the more advanced features and community applications, this is the page you want to read. This will assume you just received your device and give you lots of options for setup and customization.
 
-** [ROG Ally (2023) Driver & Tools](https://rog.asus.com/gaming-handhelds/rog-ally/rog-ally-2023/helpdesk_download/?model=rc71l)**
+**[ROG Ally (2023) Driver & Tools](https://rog.asus.com/gaming-handhelds/rog-ally/rog-ally-2023/helpdesk_download/?model=rc71l)**
 
 ## YouTube videos on the Asus ROG Ally
  
