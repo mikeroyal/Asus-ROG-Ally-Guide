@@ -98,6 +98,12 @@ ROG Gaming Charger Dock. Credit: [Asus](https://rog.asus.com/power-protection-ga
 
 ROG Ally Travel Case. Credit: [Asus](https://rog.asus.com/gaming-handhelds/accessories/rog-ally-travel-case/)
 
+ [Shockproof Protective Travel Case with Portable Handle for Asus ROG Ally | AliExpress](https://www.aliexpress.us/item/3256805433682793.html?gatewayAdapt=glo2usa4itemAdapt)
+ 
+ <p align="center">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/2aa49211-91e6-41a1-877a-d68634e6f711">
+</p>
+
 [CitySlicker Case for ASUS ROG Ally (Currently Soldout)](https://www.sfbags.com/products/cityslicker-for-asus-rog-ally)
  
 <p align="center">
