@@ -13,6 +13,7 @@
 - [Animated Wallpapers](#animated-wallpapers)
 - [Headphones](#headphones)
 - [Controllers](#controllers) 
+- [Portable Bluetooth Keyboards](#portable-keyboards)
 - [Screen Protectors](#screen-protectors)
 - [Storage](#storage)
   - [MicroSD Cards](#microsd-cards)
@@ -272,6 +273,25 @@ ROG Ally Travel Case. Credit: [Asus](https://rog.asus.com/gaming-handhelds/acces
  <img src="https://user-images.githubusercontent.com/45159366/211141385-fe44e2a3-ebc2-41d7-acc1-4d14957ef9aa.png">
  
 </p>
+
+## Portable Keyboards
+
+[Back to Top](#asus-rog-ally-accessories)
+
+[(US Version) Rii i4 Mini Bluetooth Keyboard with Touchpad](https://www.amazon.com/dp/B07T13GLY3)
+
+[(UK Version) Rii i4 Mini Bluetooth Keyboard with Touchpad](https://www.amazon.co.uk/dp/B07RNCJ39B)
+ 
+ <p align="center">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/058ee9c2-1dd0-429a-8fc4-225eda1248e3">
+</p>
+
+[Erkovia Foldable Bluetooth Keyboard with Touchpad](https://www.amazon.com/Erkovia-Bluetooth-Rechargeable-Dual-Mode-Pocket-Sized/dp/B0BY8QPSZ2/)
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/13fc957b-760f-479f-803c-c8e5fc78d570">
+</p>
+
 
 ## Screen Protectors
 
