@@ -6,6 +6,11 @@ If you just got your ASUS ROG Ally, or have had it for a while and want to learn
 
 **[ROG Ally (2023) Driver & Tools](https://rog.asus.com/gaming-handhelds/rog-ally/rog-ally-2023/helpdesk_download/?model=rc71l)**
 
+## Community Resources
+
+ * [ASUS ROG ALLY Life - The Latest ASUS ROG ALLY News, Tips & Tricks](https://rogallylife.com/)
+ * [ASUS ROG Ally Gaming on Twitter](https://twitter.com/Asus_ROG_Ally)
+
 ## YouTube videos on the Asus ROG Ally
  
  * [ROG Ally Q&A Live Stream | ROG Global](https://www.youtube.com/watch?v=TC2OGL9mN4o) 
