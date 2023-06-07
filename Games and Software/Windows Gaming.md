@@ -6,6 +6,7 @@
 
 [Gaming](#Gaming)
    - [Gaming Resources for Windows](#Gaming-Resources-for-Windows)
+   - [Sleep/Suspend Games](#sleepsuspend-games)
    - [Gaming Peripherals](#Gaming-Peripherals)
       * [Game Controllers](#Game-controllers)
    - [Graphics](#Graphics)
@@ -101,6 +102,23 @@
   * [r/NVIDIA](https://www.reddit.com/r/nvidia/)
   * [r/hardware](https://www.reddit.com/r/hardware/)
   * [r/ASUSROG](https://www.reddit.com/r/ASUSROG/)
+
+## Sleep/Suspend Games
+
+[Back to the Top](#table-of-contents)
+
+[Nyrna](https://github.com/Merrit/nyrna/releases) is a tool that let's you Suspend games and applications. Similar to the useful sleep/suspend function found in consoles like the Nintendo Switch and Sony PlayStation; suspend your game (and its resource usage) at any time, and resume whenever you wish at the push of a button.
+
+**Suspend Games**
+
+ * Pause cutscenes to read the subtitles, examine the scene, answer the door, etc.
+ * Pause games that can't normally be paused (single-player games like Dark Souls, Elden Ring, etc).
+ * Suspend games whose pause screens keep the system running hot or playing unwanted music.
+ * Suspend inbetween checkpoints (example: Hollow Knight).
+ 
+<p align="center">
+ <img src="https://github.com/mikeroyal/Windows-11-Guide/assets/45159366/8e167ee5-820b-4b69-a157-1870e335fe74">
+</p>
 
 ## Gaming Peripherals
 
