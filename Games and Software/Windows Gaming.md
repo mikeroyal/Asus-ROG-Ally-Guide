@@ -6,6 +6,7 @@
 
 [Gaming](#Gaming)
    - [Gaming Resources for Windows](#Gaming-Resources-for-Windows)
+   - [Adding Gryoscope Controller Support](#adding-gyro-support)
    - [Sleep/Suspend Games](#sleepsuspend-games)
    - [Gaming Peripherals](#Gaming-Peripherals)
       * [Game Controllers](#Game-controllers)
@@ -102,6 +103,25 @@
   * [r/NVIDIA](https://www.reddit.com/r/nvidia/)
   * [r/hardware](https://www.reddit.com/r/hardware/)
   * [r/ASUSROG](https://www.reddit.com/r/ASUSROG/)
+
+## Adding Gyro Support
+
+[Back to the Top](#table-of-contents)
+ 
+[Handheld Companion](https://github.com/Valkirie/HandheldCompanion/releases) is a  combination of a Windows service and a touch interface optimized GUI to increase your handheld gaming computer experience. 
+
+**Features include:**
+
+  * Motion control a.k.a. gyro control through a device's inertial measurement unit (IMU, Gyroscope and Accelerometer) or external sensor. Settings availible for racing, 1st and 3rd person gaming and emulator support.
+  * Quicktools overlay, with easy access to various settings and information such as TDP, GPU, Screen Hz, Resolution, Brightness, Volume, Powermode control and battery level.
+  * Virtual controller simulation of Microsoft Xbox 360 Controller and Sony DualShock 4 Controller.
+  * Profile settings system, automatic detection of active game and applying of settings.
+  * PS Remote Play support with DS4 controller, including motion and touchpad.
+  * 3D Controller overlay for stream recordings.
+ 
+<p align="center">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/8cc9a29d-919c-417f-9139-92bf2447f221">
+</p>
 
 ## Sleep/Suspend Games
 
