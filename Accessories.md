@@ -111,7 +111,7 @@ ROG Gaming Charger Dock. Credit: [Asus](https://rog.asus.com/power-protection-ga
 
  * [Apple USB-C to USB Adapter](https://www.amazon.com/Apple-USB-C-to-USB-Adapter/dp/B00VU2OID2/)
 
-### USB-C Fast Charging Cable
+### USB-C Fast Charging Cables
 
  [Back to Top](#asus-rog-ally-accessories)
  
