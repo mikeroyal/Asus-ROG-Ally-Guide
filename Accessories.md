@@ -9,7 +9,7 @@
   - [Docking Stations](#docking-stations)
   - [USB-C Hubs](#usb-c-hubs) 
   - [USB-C Adapters](#usb-c-adapters)
-  - [USB-C Fast Charging Cables (from 3.3-10ft)](#usc-c-fast-charging-cables)
+  - [USB-C Fast Charging Cables (from 3.3-10ft)](#usb-c-fast-charging-cables)
 - [Cases](#cases)
 - [Skins](#skins)
 - [Animated Wallpapers](#animated-wallpapers)
