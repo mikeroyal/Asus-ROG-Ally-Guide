@@ -37,7 +37,7 @@ If you just got your ASUS ROG Ally, or have had it for a while and want to learn
  * **[GTA V on the ROG Ally: performance guide & best settings](https://rog.asus.com/articles/rog-ally/grand-theft-auto-v-on-the-rog-ally-performance-guide--best-settings/)**
  * **[Red Dead Redemption 2 on the ROG Ally: performance guide & best settings](https://rog.asus.com/articles/rog-ally/red-dead-redemption-2-on-the-rog-ally-performance-guide--best-settings/)**
  * **[Forza Horizon 5 on the ROG Ally: performance guide & best settings](https://rog.asus.com/articles/rog-ally/forza-horizon-5-on-the-rog-ally-performance-guide--best-settings/)**
- *  * **[Elden Ring on the ROG Ally: performance guide & best settings](https://rog.asus.com/articles/rog-ally/elden-ring-on-the-rog-ally-performance-guide--best-settings/)**
+ * **[Elden Ring on the ROG Ally: performance guide & best settings](https://rog.asus.com/articles/rog-ally/elden-ring-on-the-rog-ally-performance-guide--best-settings/)**
  * **[Cyberpunk 2077 on the ROG Ally: performance guide & best settings](https://rog.asus.com/articles/rog-ally/cyberpunk-2077-on-the-rog-ally-performance-guide--best-settings/)**
  * **[Call of Duty Modern Warfare II on the ROG Ally: performance guide & best settings](https://rog.asus.com/articles/rog-ally/call-of-duty-modern-warfare-ii-on-the-rog-ally-performance-guide--best-settings/)**  
  * **[Destiny 2 on the ROG Ally: performance guide & best settings](https://rog.asus.com/articles/rog-ally/destiny-2-on-the-rog-ally-performance-guide--best-settings/)**
