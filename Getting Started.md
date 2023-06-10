@@ -4,10 +4,36 @@
 
 If you just got your ASUS ROG Ally, or have had it for a while and want to learn about the more advanced features and community applications, this is the page you want to read. This will assume you just received your device and give you lots of options for setup and customization.
 
-* **[ROG Ally (2023) Driver & Tools](https://rog.asus.com/gaming-handhelds/rog-ally/rog-ally-2023/helpdesk_download/?model=rc71l)**
-* **[ROG Ally (2023) RC71L Manual](https://rog.asus.com/gaming-handhelds/rog-ally/rog-ally-2023/helpdesk_manual/)**
+# Table of Contents
 
-## Community Resources
+* [Official ROG Ally Resources](#official-rog-ally-resources)
+* [ROG Ally Community Resources](#rog-ally-community-resources)
+* [YouTube videos on the Asus ROG Ally](#youtube-videos-on-the-asus-rog-ally)
+* [Asus ROG Ally UI Overview](#asus-rog-ally-ui-overview)
+
+
+## Official ROG Ally Resources
+
+ * **[ASUS ROG Global | Official YouTube](https://www.youtube.com/@asusrog)**
+ * **[ASUS ROG Discord](https://discord.com/invite/Sxv2XBpSRc)**
+ * **[@ASUS_ROG on Twitter](https://twitter.com/ASUS_ROG)**
+ * **[ROG Ally (2023) Driver & Tools](https://rog.asus.com/gaming-handhelds/rog-ally/rog-ally-2023/helpdesk_download/?model=rc71l)**
+ * **[ROG Ally (2023) RC71L Manual](https://rog.asus.com/gaming-handhelds/rog-ally/rog-ally-2023/helpdesk_manual/)**
+ * **[Official ROG Ally Tutorials and Guides](https://rog.asus.com/tag/rog-ally)**
+ * **[15 tips & shortcuts to set up and optimize your ROG Ally](https://rog.asus.com/articles/guides/15-tips--shortcuts-to-set-up-and-optimize-your-rog-ally/)**
+ * **[How to boost gaming performance on the ROG Ally](https://rog.asus.com/articles/guides/how-to-boost-gaming-performance-on-the-rog-ally/)**
+ * **[How to extend the battery life of your ROG Ally](https://rog.asus.com/articles/guides/how-to-extend-the-battery-life-of-your-rog-ally/)**
+ * **[How to remap buttons and create custom game profiles on the ROG Ally](https://rog.asus.com/articles/guides/how-to-remap-buttons-and-create-custom-game-profiles-on-the-rog-ally/)**
+ * **[How to Install Games to an SD Card on the ROG Ally](https://rog.asus.com/articles/guides/how-to-install-games-to-an-sd-card-on-the-rog-ally/)**
+ * **[How to upgrade the SSD and reinstall Windows on your ROG Ally](https://rog.asus.com/articles/guides/how-to-upgrade-the-ssd-and-reinstall-windows-on-your-rog-ally/)**
+ * **[How to increase the ROG Ally's VRAM allocation](https://rog.asus.com/articles/guides/how-to-increase-the-rog-allys-vram-allocation/)**
+ * **[The best indie games for the ROG Ally (at 120Hz)](https://rog.asus.com/articles/gaming/the-best-indie-games-for-the-rog-ally-and-its-120hz-screen/)**
+ * **[The best free games for the ROG Ally](https://rog.asus.com/articles/gaming/the-best-free-games-for-the-rog-ally/)**
+ * **[GTA V on the ROG Ally: performance guide & best settings](https://rog.asus.com/articles/rog-ally/grand-theft-auto-v-on-the-rog-ally-performance-guide--best-settings/)**
+ * **[Red Dead Redemption 2 on the ROG Ally: performance guide & best settings](https://rog.asus.com/articles/rog-ally/red-dead-redemption-2-on-the-rog-ally-performance-guide--best-settings/)**
+ * **[Forza Horizon 5 on the ROG Ally: performance guide & best settings](https://rog.asus.com/articles/rog-ally/forza-horizon-5-on-the-rog-ally-performance-guide--best-settings/)**
+
+## ROG Ally Community Resources
 
  * [ASUS ROG ALLY Life - The Latest ASUS ROG ALLY News, Tips & Tricks](https://rogallylife.com/)
  * [ASUS ROG Ally Gaming on Twitter](https://twitter.com/Asus_ROG_Ally)
