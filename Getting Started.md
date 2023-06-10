@@ -11,6 +11,11 @@ If you just got your ASUS ROG Ally, or have had it for a while and want to learn
 * [YouTube videos on the Asus ROG Ally](#youtube-videos-on-the-asus-rog-ally)
 * [Asus ROG Ally UI Overview](#asus-rog-ally-ui-overview)
 
+<p align="center">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/15ba1a45-29d6-4416-92fa-87ea61dcaa33">
+  <br />
+</p>
+
 
 ## Official ROG Ally Resources
 
@@ -34,9 +39,11 @@ If you just got your ASUS ROG Ally, or have had it for a while and want to learn
  * **[Forza Horizon 5 on the ROG Ally: performance guide & best settings](https://rog.asus.com/articles/rog-ally/forza-horizon-5-on-the-rog-ally-performance-guide--best-settings/)**
 
 ## ROG Ally Community Resources
-
- * [ASUS ROG ALLY Life - The Latest ASUS ROG ALLY News, Tips & Tricks](https://rogallylife.com/)
- * [ASUS ROG Ally Gaming on Twitter](https://twitter.com/Asus_ROG_Ally)
+ 
+ * **[ROG Ally Community Reddit](https://www.reddit.com/r/ROGAlly/)**
+ * **[Unofficial ROG Ally Discord](https://discord.gg/FXCSyqQBu2)**
+ * **[ASUS ROG ALLY Life - The Latest ASUS ROG ALLY News, Tips & Tricks](https://rogallylife.com/)**
+ * **[ASUS ROG Ally Gaming on Twitter](https://twitter.com/Asus_ROG_Ally)**
 
 ## YouTube videos on the Asus ROG Ally
  
