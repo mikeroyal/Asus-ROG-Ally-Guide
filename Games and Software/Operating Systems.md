@@ -167,7 +167,7 @@ WineapOS Desktop. Credit: [LukeShortCloud](https://github.com/LukeShortCloud)
 
 ## MacOS
 
-[Docker OSX](https://github.com/sickcodes/Docker-OSX) is a tool that lets you run macOS VM in a Docker container atnear native OSX-KVM in Docker with X11 Forwarding. This project is developed and mantained by [sickcodes](https://github.com/sickcodes).
+[Docker OSX](https://github.com/sickcodes/Docker-OSX) is a tool that lets you run macOS VM in a Docker container at near native OSX-KVM in Docker with X11 Forwarding. This project is developed and mantained by [sickcodes](https://github.com/sickcodes).
 
  * [Docker-OSX on Docker Hub](https://hub.docker.com/r/sickcodes/docker-osx)
 
