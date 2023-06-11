@@ -15,32 +15,13 @@
 [Back to the Top](#operating-systems)
 
 **Note: Windows 11 comes presinstalled on the ASUS ROG Ally device.**
-
-### Creating a Windows 11 Bootable Device (MicroSD or USB)
-
-[Rufus](https://rufus.ie/) is a utility that helps format and create bootable USB flash drives.
+* If you upgrade your SSD you can easily reinstall Windows on your device by using **ASUS Cloud Recovery** in the **Advanced** section of the BIOS menu.
+* **How to access BIOS** - Restart your ROG Ally by pressing the power button and hold the **Volume Down button**.
 
 <p align="center">
- <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/3ba34ecc-c55d-491f-b727-2090fc036edd)">
-  <br />
-  Rufus
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/bab54540-9472-43bd-8e5d-7f5a543e7ed6">
+  ROG Ally BIOS menu. Image Credit: ASUS
 </p>
-
- **Windows 11 setup customization:**
-
-- Secure Boot and TPM bypass have now been moved to this dialog.
-- Allows to bypass the mandatory requirement for a Microsoft account on Windows 11 22H2.
-    **(Note: Network must be temporarily disabled for the local account creation to be proposed).**
-  * Added an option to skip all collection questions (Sets all answers to “Don’t allow”).
-  * Added an option for setting internal drives offline for Windows To Go.
-
-<p align="center">
-  <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/6f9ecd46-dd02-4df3-9da0-b8fa5184038b">
-  <br />
-    Rufus Windows 11 setup customization.
-</p>
-
-## [Windows 11](https://www.microsoft.com/en-us/software-download/windows11)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/124997795-20cf2400-e000-11eb-8954-4944286b8ea8.png">
