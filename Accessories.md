@@ -402,12 +402,15 @@ The Asus Ally supports expansion via a MicroSD card slot which supports up to **
 
 Image Credit: [SD Association](https://www.sdcard.org/)
 
-## YouTube Videos for SSD Upgrades
-
- * [ROG Ally SSD Upgrade! Add More Storage So You Can Play All Your Games | ETA Prime](https://www.youtube.com/watch?v=8Oxj5P-JLHY&pp=ygUJZXRhIHByaW1l)
- * [Here's how I upgraded the SSD of the ASUS ROG Ally | Gadget Pilipinas](https://www.youtube.com/watch?v=qIj16PDHMLE)
-
 ### SSDs
+
+* If you upgrade your SSD you can easily reinstall Windows on your device by using **ASUS Cloud Recovery** in the **Advanced** section of the BIOS menu.
+* **How to access BIOS** - Restart your ROG Ally by pressing the power button and hold the **Volume Down button**.
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/bab54540-9472-43bd-8e5d-7f5a543e7ed6">
+  ROG Ally BIOS menu. Image Credit: ASUS
+</p>
 
  * [M.2 2230 SSDs on Amazon](https://www.amazon.com/m-2-2230-ssd/s?k=m.2+2230+ssd)
  * [M.2 2230 SSDs on NewEgg](https://www.newegg.com/p/pl?d=m.2+2230+ssd)
