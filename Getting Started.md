@@ -61,6 +61,10 @@ If you just got your ASUS ROG Ally, or have had it for a while and want to learn
 
 [Back to the Top](#table-of-contents)
  
+ [![ROG Ally Tutorial Video - Introduction to Armoury Crate | ROG](https://ytcards.demolab.com/?id=dX9teMqoBiU&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "ROG Ally Tutorial Video - Introduction to Armoury Crate | ROG")](https://www.youtube.com/watch?v=dX9teMqoBiU)
+[![ Xbox Games Showcase + Starfield Direct](https://ytcards.demolab.com/?id=qGtYn7DCIYo&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Xbox Games Showcase + Starfield Direct")](https://www.youtube.com/watch?v=qGtYn7DCIYo)
+[![Ubisoft Forward 2023: Official Livestream](https://ytcards.demolab.com/?id=ojXzNi1JFlA&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Ubisoft Forward 2023: Official Livestream")](https://www.youtube.com/watch?v=ojXzNi1JFlA)
+[![Devolver Direct 2023: The Return of Volvy](https://ytcards.demolab.com/?id=o2ztnnc1_AE&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Devolver Direct 2023: The Return of Volvy")](https://www.youtube.com/watch?v=o2ztnnc1_AE)
 [![ROG Ally Q&A Live Stream | ROG Global](https://ytcards.demolab.com/?id=TC2OGL9mN4o&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "ROG Ally Q&A Live Stream | ROG Global")](https://www.youtube.com/watch?v=TC2OGL9mN4o)
 [![Asus ROG ALLY SUPER EASY SSD Install / Upgrade How-to Asus Cloud Recovery | The Phawx](https://ytcards.demolab.com/?id=0amz40sIud8&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Asus ROG ALLY SUPER EASY SSD Install / Upgrade How-to Asus Cloud Recovery | The Phawx")](https://www.youtube.com/watch?v=0amz40sIud8)
 [![ASUS ROG ALLY - Armory Crate Updated! | The Phawx](https://ytcards.demolab.com/?id=63vVk89xYY8&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "ASUS ROG ALLY - Armory Crate Updated! | The Phawx")](https://www.youtube.com/watch?v=63vVk89xYY8)
