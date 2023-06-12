@@ -10,7 +10,7 @@ If you just got your ASUS ROG Ally, or have had it for a while and want to learn
 * [ROG Ally Community Resources](#rog-ally-community-resources)
 * [YouTube videos on the Asus ROG Ally](#youtube-videos-on-the-asus-rog-ally)
 * [Asus ROG Ally UI Overview](#asus-rog-ally-ui-overview)
-* [Getting Things Setup & Updates](getting-things-setup--updates)
+* [Getting Things Setup & Updates](#getting-things-setup--updates)
 * [Optimizing Windows 11](#optimizing-windows-11)
 
 <p align="center">
@@ -172,7 +172,7 @@ Or
 
 With Windows 11 a lot system resources such as CPU and Ram are taken up when your system starts up. There are serval ways turnoff/disable apps from auto-starting when you log-in to Windows 11 
 
-First way to stop auto-start apps is through Startup folder in Windows.
+First way to stop auto-start apps is through Startup folder in the Windows settings.
 
 <p align="center">
  <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/80284562-f67e-4f10-9281-a64f1f88ed0d">
