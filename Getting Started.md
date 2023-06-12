@@ -10,6 +10,7 @@ If you just got your ASUS ROG Ally, or have had it for a while and want to learn
 * [ROG Ally Community Resources](#rog-ally-community-resources)
 * [YouTube videos on the Asus ROG Ally](#youtube-videos-on-the-asus-rog-ally)
 * [Asus ROG Ally UI Overview](#asus-rog-ally-ui-overview)
+* [Getting Things Setup & Updates](getting-things-setup--updates)
 
 <p align="center">
  <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/15ba1a45-29d6-4416-92fa-87ea61dcaa33">
@@ -100,3 +101,29 @@ Asus ROG Ally UI is powered by [Armoury Crate](https://rog.asus.com/armoury-crat
   <br />
 </p>
 
+## Getting Things Setup & Updates
+ 
+<p align="center">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/1edaa435-384a-4470-9f75-7263d8c1003b">
+  <br />
+</p>
+
+ **Note: This update process takes about 1-2 hours.**
+
+  1.  Open Armory Crate (Grey Icon on the windows menu bar along the bottom), go to **"Content"** tab, then **"Update Center"**. Click the button for **"Check for updates"**. Once it is done, click **"Update"** on the top group and when that completes click **"Update All"** on the bottom group. Once all the updates are complete, restart your device. You might get a pop up to confirm you want to update BIOS and say **"Ok"**.
+
+  2.  Open the Start menu, select "Settings" and then "Windows Update". Say check for updates and let this download and install everything in the list (you might have to click "Download and Install" to trigger this. This might take awhile but once everything is completed click the "restart now" button. Do not click this until everything is completed or you could run into issues. **Note:**If you see a update that wouldn't install, and even when clicking "Retry" it could not install. If you see this don't worry this will be fixed in step 5.
+
+  3.  After it restarts, go back to the Start menu, then settings, then Windows Update again. Say check for updates and wait to see if there are any more. If there is a "Windows Preview" type update you can click the button to download and install or leave it, I did install the latest. If you had more updates in this step, when they are all completed restart your device.
+
+  4.  Now that we have all Armory Crate and Windows Updates, open the Microsoft Store (you have an icon on your Windows Menu Bar. When it opens, click the **"My Apps"** icon on the left side, then click **"Get Updates"**. This will probably take awhile too, but let everything download and install. Once all of these are complete, restart your device.
+
+  5.  After it restarts, open the **"My Asus" app (start>All Apps>My Asus)**, and when it opens go to **"Customer Support"** on the left, then **"LiveUpdate"** tab. Click **"Check"** and there should be at least 2 updates. One of these is the firmware update that wouldn't install in step 2 in my case. Once it checks for updates, click **"Update All"** and let it run the updates. You will probably see a confirmation pop up to update firmware and click **"Okay"**. Once these complete your device should restart.
+
+  6. After it restarts, open the Xbox App and click the **"Install Now"** link where it says it needs an update. Once it completes the Xbox app will close and reopen. When that happens, open the Microsoft Store again and go to **"My Apps" and "Get Updates"** - it will now grab even more updates so just let it download and install all. Once this is done restart your device.
+
+  7. You'e almost done! Once the device restarts open your start menu and in the search box field tap there and type "Disk Cleanup" and open it. Once it loads, click the button for "Clean Up System Files" and it will close and reopen. Click the checkbox next to every option (you have to scroll down to get them all" then click "Clean up". This got me back almost 15gigs on the hard drive.
+
+  8. After that, go the the start menu and in the search box type "Defrag" and open the Disk defrag app. When it loads, click your "C:" drive and click "Optimize". 
+  
+  **That's it everything is up-to-date for your ROG Ally device.**
