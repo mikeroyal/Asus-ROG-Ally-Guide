@@ -10,6 +10,7 @@ If you just got your ASUS ROG Ally, or have had it for a while and want to learn
 * [ROG Ally Community Resources](#rog-ally-community-resources)
 * [YouTube videos on the Asus ROG Ally](#youtube-videos-on-the-asus-rog-ally)
 * [Asus ROG Ally UI Overview](#asus-rog-ally-ui-overview)
+* [Turnoff The Bootup Sound On The ROG Ally](#turnoff-the-bootup-sound-on-the-rog-ally)
 * [Getting Things Setup & Updates](#getting-things-setup--updates)
 * [Optimizing Windows 11](#optimizing-windows-11)
 
@@ -114,6 +115,20 @@ Asus ROG Ally UI is powered by [Armoury Crate](https://rog.asus.com/armoury-crat
 <p align="center">
  <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/0a2af89e-6f11-4d85-9ee3-7c50fc35bacb">
   <br />
+</p>
+
+## Turnoff The Bootup Sound On The ROG Ally
+
+[Back to the Top](#table-of-contents)
+
+  * Turn off your ROG Ally.
+  * Turn the Ally on while holding down the volume down button until you see the BIOS screen.
+  * In the Bios press Y and go to Advanced Settings, scroll down to Animation Post Logo Configuration and disable the start up audio there.
+  * Save changes and exit.
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/bab54540-9472-43bd-8e5d-7f5a543e7ed6">
+  ROG Ally BIOS menu. Image Credit: ASUS
 </p>
 
 ## Getting Things Setup & Updates
