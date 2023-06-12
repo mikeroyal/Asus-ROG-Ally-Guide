@@ -22,6 +22,7 @@ If you just got your ASUS ROG Ally, or have had it for a while and want to learn
  * **[ASUS ROG Global | Official YouTube](https://www.youtube.com/@asusrog)**
  * **[ASUS ROG Discord](https://discord.com/invite/Sxv2XBpSRc)**
  * **[@ASUS_ROG on Twitter](https://twitter.com/ASUS_ROG)**
+ * **[ASUS ROG Twitch Channel](https://www.twitch.tv/asusrog)**
  * **[ROG Ally (2023) Driver & Tools](https://rog.asus.com/gaming-handhelds/rog-ally/rog-ally-2023/helpdesk_download/?model=rc71l)**
  * **[ROG Ally (2023) RC71L Manual](https://rog.asus.com/gaming-handhelds/rog-ally/rog-ally-2023/helpdesk_manual/)**
  * **[Official ROG Ally Tutorials and Guides](https://rog.asus.com/tag/rog-ally)**
