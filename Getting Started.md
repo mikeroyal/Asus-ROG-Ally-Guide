@@ -89,6 +89,8 @@ If you just got your ASUS ROG Ally, or have had it for a while and want to learn
 
 Asus ROG Ally UI is powered by [Armoury Crate](https://rog.asus.com/armoury-crate/). Armoury Crate helps you manage every aspect of your device from the initial setup to RGB lighting. It also helps with getting the latest updates, drivers, manuals and offers, and connect instantly with your gaming peers.
 
+ [![ROG Ally Tutorial Video - Introduction to Armoury Crate | ROG](https://ytcards.demolab.com/?id=dX9teMqoBiU&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "ROG Ally Tutorial Video - Introduction to Armoury Crate | ROG")](https://www.youtube.com/watch?v=dX9teMqoBiU)
+
 <p align="center">
  <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/b4b41805-ac11-41c6-9e15-5773c7da8584">
   <br />
