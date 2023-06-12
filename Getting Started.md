@@ -21,6 +21,8 @@ If you just got your ASUS ROG Ally, or have had it for a while and want to learn
 
 ## Official ROG Ally Resources
 
+[Back to the Top](#table-of-contents)
+
  * **[ASUS ROG Global | Official YouTube](https://www.youtube.com/@asusrog)**
  * **[ASUS ROG Discord](https://discord.com/invite/Sxv2XBpSRc)**
  * **[@ASUS_ROG on Twitter](https://twitter.com/ASUS_ROG)**
@@ -47,6 +49,8 @@ If you just got your ASUS ROG Ally, or have had it for a while and want to learn
  * **[How to set up the XG Mobile with your ROG Ally](https://rog.asus.com/articles/guides/how-to-set-up-the-xg-mobile-with-your-rog-ally-or-laptop/)**
 
 ## ROG Ally Community Resources
+
+ [Back to the Top](#table-of-contents)
  
  * **[ROG Ally Community Reddit](https://www.reddit.com/r/ROGAlly/)**
  * **[Unofficial ROG Ally Discord](https://discord.gg/FXCSyqQBu2)**
@@ -54,6 +58,8 @@ If you just got your ASUS ROG Ally, or have had it for a while and want to learn
  * **[ASUS ROG Ally Gaming on Twitter](https://twitter.com/Asus_ROG_Ally)**
 
 ## YouTube videos on the Asus ROG Ally
+
+[Back to the Top](#table-of-contents)
  
 [![ROG Ally Q&A Live Stream | ROG Global](https://ytcards.demolab.com/?id=TC2OGL9mN4o&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "ROG Ally Q&A Live Stream | ROG Global")](https://www.youtube.com/watch?v=TC2OGL9mN4o)
 [![Asus ROG ALLY SUPER EASY SSD Install / Upgrade How-to Asus Cloud Recovery | The Phawx](https://ytcards.demolab.com/?id=0amz40sIud8&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Asus ROG ALLY SUPER EASY SSD Install / Upgrade How-to Asus Cloud Recovery | The Phawx")](https://www.youtube.com/watch?v=0amz40sIud8)
@@ -74,6 +80,8 @@ If you just got your ASUS ROG Ally, or have had it for a while and want to learn
 
 
 ## Asus ROG Ally UI Overview
+
+[Back to the Top](#table-of-contents)
 
 Asus ROG Ally UI is powered by [Armoury Crate](https://rog.asus.com/armoury-crate/). Armoury Crate helps you manage every aspect of your device from the initial setup to RGB lighting. It also helps with getting the latest updates, drivers, manuals and offers, and connect instantly with your gaming peers.
 
@@ -103,7 +111,9 @@ Asus ROG Ally UI is powered by [Armoury Crate](https://rog.asus.com/armoury-crat
 </p>
 
 ## Getting Things Setup & Updates
- 
+
+[Back to the Top](#table-of-contents)
+
 <p align="center">
  <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/1edaa435-384a-4470-9f75-7263d8c1003b">
   <br />
@@ -130,6 +140,8 @@ Asus ROG Ally UI is powered by [Armoury Crate](https://rog.asus.com/armoury-crat
   **That's it everything is up-to-date for your ROG Ally device.**
 
 ## Optimizing Windows 11
+
+[Back to the Top](#table-of-contents)
 
 **Note:** You may need to plug-in a keyboard and mouse into your device to make process easier.
 
