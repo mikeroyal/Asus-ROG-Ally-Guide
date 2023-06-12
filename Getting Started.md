@@ -11,6 +11,7 @@ If you just got your ASUS ROG Ally, or have had it for a while and want to learn
 * [YouTube videos on the Asus ROG Ally](#youtube-videos-on-the-asus-rog-ally)
 * [Asus ROG Ally UI Overview](#asus-rog-ally-ui-overview)
 * [Getting Things Setup & Updates](getting-things-setup--updates)
+* [Optimizing Windows 11](#optimizing-windows-11)
 
 <p align="center">
  <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/15ba1a45-29d6-4416-92fa-87ea61dcaa33">
@@ -127,3 +128,53 @@ Asus ROG Ally UI is powered by [Armoury Crate](https://rog.asus.com/armoury-crat
   8. After that, go the the start menu and in the search box type "Defrag" and open the Disk defrag app. When it loads, click your "C:" drive and click "Optimize". 
   
   **That's it everything is up-to-date for your ROG Ally device.**
+
+## Optimizing Windows 11
+
+**Note:** You may need to plug-in a keyboard and mouse into your device to make process easier.
+
+[Chris Titus Tech Windows Utility](https://github.com/ChrisTitusTech/winutil) is a tool that helps you install Programs, Tweaks, Fixes, and Updates. It makes Windows 11 setup easy and optimizes your machine. [The Ultimate Windows Utility | Chris Titus Tech YouTube.](https://www.youtube.com/watch?v=tPRv-ATUBe4)
+
+The recommended way is to right click on the start menu and select (Windows Terminal As Admin Windows 11)
+
+**Launch Command:**
+
+```iwr -useb https://christitus.com/win | iex```
+
+Or
+
+```irm christitus.com/win | iex```
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Windows-11-Guide/assets/45159366/31fd56ce-388b-488d-871c-6be7a11a4b2a">
+  <br />
+</p>
+
+[Process Lasso](https://bitsum.com/) is a tool for real-Time CPU Optimization and Automation.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/209896493-4fd594f8-1486-4051-a6e4-752ff9675990.png">     
+</p>
+
+### Disable/Turnoff unwanted Apps on your Windows system
+
+With Windows 11 a lot system resources such as CPU and Ram are taken up when your system starts up. There are serval ways turnoff/disable apps from auto-starting when you log-in to Windows 11 
+
+First way to stop auto-start apps is through Startup folder in Windows.
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/80284562-f67e-4f10-9281-a64f1f88ed0d">
+  <br />
+</p>
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/dc1e40a3-5440-4ee4-b8c5-e19f7d000245">
+  <br />
+</p>
+
+Second way to stop auto-start apps is through Task Manager. Open task manager in the start menu.
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/090acde5-e101-44a7-be20-cf0d84f033f2">
+  <br />
+</p>
