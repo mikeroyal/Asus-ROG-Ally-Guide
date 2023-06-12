@@ -19,6 +19,7 @@ A Community Guide to getting all your Accessories, Games, Emulators, and Gaming 
 # Table of Contents
 
 - [ASUS ROG Ally](#asus-rog-ally)
+- [Glossary](./Glossary.md)
 - [Getting Started](./Getting%20Started.md)
 - [Accessories](./Accessories.md)
 - [Games and Software](./Games%20and%20Software/README.md)
