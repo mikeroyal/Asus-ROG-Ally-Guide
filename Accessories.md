@@ -385,6 +385,8 @@ ROG Ally Travel Case. Credit: [Asus](https://rog.asus.com/gaming-handhelds/acces
 
 The Asus Ally supports expansion via a MicroSD card slot which supports up to **2TB MicroSD UHS-I & UHS-II cards**. Additionally it uses a 2230 m.2 SSD drive, meaning that some users have sourced large (up to 2TB!) drives to upgrade their Devices.
 
+* **[Moving a Steam Installation and Games](https://help.steampowered.com/faqs/view/4BD4-4528-6B2E-8327)**
+
 ### MicroSD Cards
 
 * [Integral MicroSD cards](https://www.integralmemory.com/product-category/memory-cards/micro-sd/)
