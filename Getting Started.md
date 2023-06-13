@@ -16,7 +16,7 @@ If you just got your ASUS ROG Ally, or have had it for a while and want to learn
 * [Backups](#Backups)
 * [Battery Health](#Battery-Health)
 * [File Sync/Transfer](#File-SyncTransfer)
-* [Storage Disk Health/Data Recovery](#Storage-Disk-HealthData-Recovery)
+* [Storage Disk Health](#Storage-Disk-Health)
 
 
 <p align="center">
@@ -296,7 +296,7 @@ Open the file in your browser and check the following parameters:
 [TagSpaces](https://www.tagspaces.org/) is a free, no vendor lock-in, open source application for organizing, annotating and managing local files with the help of tags. It features advanced note taking functionalities and some capabilities of to-do apps. It's available for Windows, Linux, Mac OS and Android. 
 
 
-## Storage Disk Health/Data Recovery 
+## Storage Disk Health
 
 [Back to the Top](#table-of-contents)
 
