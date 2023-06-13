@@ -13,6 +13,11 @@ If you just got your ASUS ROG Ally, or have had it for a while and want to learn
 * [Turnoff The Bootup Sound On The ROG Ally](#turnoff-the-bootup-sound-on-the-rog-ally)
 * [Getting Things Setup & Updates](#getting-things-setup--updates)
 * [Optimizing Windows 11](#optimizing-windows-11)
+* [Backups](#Backups)
+* [Battery Health](#Battery-Health)
+* [File Sync/Transfer](#File-SyncTransfer)
+* [Storage Disk Health/Data Recovery](#Storage-Disk-HealthData-Recovery)
+
 
 <p align="center">
  <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/15ba1a45-29d6-4416-92fa-87ea61dcaa33">
@@ -210,4 +215,100 @@ Second way to stop auto-start apps is through Task Manager. Open task manager in
 <p align="center">
  <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/090acde5-e101-44a7-be20-cf0d84f033f2">
   <br />
+</p>
+
+## Backups
+
+[Back to the Top](#table-of-contents)
+
+[Borgmatic](https://github.com/modem7/docker-borgmatic) is a simple, configuration-driven backup software for servers and workstations. It protects your files with client-side encryption.
+
+[BorgWarehouse](https://borgwarehouse.com/) is a  fast and modern WebUI for a BorgBackup's central repository server.
+
+[Emborg](https://emborg.readthedocs.io/en/latest/) is a simple command line utility to orchestrate backups. It is built as a front-end to Borg, a powerful and fast de-duplicating backup program. 
+
+[BackupPC](https://github.com/backuppc/backuppc) is a high-performance, enterprise-grade system for backing up Windows, Linux, and macOS PCs and laptops to a server's disk. BackupPC is highly configurable and easy to install and maintain.
+
+[UrBackup](https://www.urbackup.org/) is an easy to setup Open Source client/server backup system, that through a combination of image and file backups accomplishes both data safety and a fast restoration time. File and image backups are made while the system is running without interrupting current processes. Available for Windows, macOS, and Linux. 
+
+[Kopia](https://kopia.io/) is a user-friendly desktop app for Windows, macOS, and Linux which allows you to create snapshots, define policies, and restore files quickly with Fast and Encrypted Backups. 
+
+## Battery Health
+
+[Back to the Top](#table-of-contents)
+
+### Powercfg Battery Report
+
+[Powercfg](https://docs.microsoft.com/en-us/windows-hardware/design/device-experiences/powercfg-command-line-options) is a tool built-in to Windows that generates detailed report on battery health of your Windows device. 
+
+To generate a battery report, **press Windows Key + X and select Command Prompt**. Then type in **powercfg /batteryreport**. This command saves a battery report in HTML format to
+
+```C:\Users\Your_Username\battery-report.html```
+
+Open the file in your browser and check the following parameters:
+
+  * The difference between Design Capacity and Full Charge Capacity. As batteries wear over time, the full charge capacity will be less than the design capacity.
+  
+  * Battery capacity drained over the last few days in different power states. Also, check out the battery usage graph.
+  
+  * Compare the battery life from the time you purchased the laptop and see the trends of Full Charge Capacity in relation to Design Capacity.
+  
+  * Check the battery’s usage and duration. And the time your computer ran on battery or plugged into the power outlet.
+  
+### Microsys Smarter Battery
+
+[Smarter Battery](https://www.microsys.ro/smarterbattery.htm) is a battery monitoring utility for portable computers, intended to provide all the data of your battery, to help prolong its life and save its energy. It shows you the evolution of the battery's capacity during the charge / discharge cycles and computes a few important battery parameters, such as the wear level and discharge cycles count.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/183272241-70318426-0302-41c8-9cb2-c262b9d13b30.png">
+<br />
+ Microsys Smarter Battery UI
+</p>
+
+## File Sync/Transfer
+
+[Back to Top](#table-of-contents)
+
+[Syncthing](https://syncthing.net/) is a continuous file synchronization program. It synchronizes files between two or more computers in real time.
+
+[Seafile](https://www.seafile.com) is an open source file sync&share solution designed for high reliability, performance and productivity. Sync, share and collaborate across devices and teams. 
+
+[Synology](https://www.synology.com/) is a tool that allows you to easily access and manage files in your Synology Drive on the go. Apart from common file types, such as documents, images, videos and music, you can also open Synology Office document, spreadsheets and slides in the user-friendly viewer provided by Drive.
+
+[Nextcloud](http://nextcloud.com/) is a suite of client-server software for creating and using file hosting services. It offers an on-premise Universal File Access and sync platform with powerful collaboration capabilities and desktop, mobile and web interfaces. 
+
+[FileRun](https://hub.docker.com/r/filerun/filerun) is a self-hosted Google Drive alternative. It is a full featured web based file manager with an easy to use user interface.
+
+[FileBrowser](https://hub.docker.com/r/filebrowser/filebrowser) provides a file managing interface within a specified directory and it can be used to upload, delete, preview, rename and edit your files. It allows the creation of multiple users and each user can have its own directory.
+
+[Warpinator](https://github.com/linuxmint/warpinator) is a free, open-source tool for sending and receiving files between computers that are on the same network. 
+
+[FileZilla Client](https://filezilla-project.org/) is a fast and reliable cross-platform FTP, FTPS and SFTP client with lots of useful features and an intuitive graphical user interface. 
+
+[WinFsp](https://github.com/winfsp/winfsp) is a set of software components for Windows computers that allows the creation of user mode file systems. In this sense it is similar to FUSE (Filesystem in Userspace), which provides the same functionality on UNIX-like computers.
+
+[SSHFS-Win](https://github.com/winfsp/sshfs-win) is a minimal port of SSHFS to Windows. Looking under the hood it uses Cygwin for the POSIX environment and WinFsp for the FUSE (Filesystem in Userspace) functionality.
+
+[RiftShare](https://riftshare.app) is a cross platform (Windows, MacOS, Linux) file sharing tool that supports fully encrypted transfers both on the local network and off network using a simple passphrase. RiftShare uses [magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) under the hood and is compatible with other magic-wormhole clients. 
+
+[Usermode FTP Server](https://gitlab.com/ergoithz/umftpd) is a tool that let's you start an FTP server as user and transfer files with any FTP client. Allowing you to access your files directly with many file browsers' builtin FTP support: Windows File Explorer, Thunar, Gnome Files, Dolphin and many more. 
+
+[TagSpaces](https://www.tagspaces.org/) is a free, no vendor lock-in, open source application for organizing, annotating and managing local files with the help of tags. It features advanced note taking functionalities and some capabilities of to-do apps. It's available for Windows, Linux, Mac OS and Android. 
+
+
+## Storage Disk Health/Data Recovery 
+
+[Back to the Top](#table-of-contents)
+
+[CrystalDiskMark](https://crystalmark.info/software/crystaldiskmark/) is an open source disk drive benchmark tool for Microsoft Windows.
+
+[DiskMon](https://docs.microsoft.com/en-us/sysinternals/downloads/diskmon) is an application that logs and displays all hard disk activity on a Windows system.
+
+[WinDirStat(Windows Directory Statistics)](https://windirstat.net/) is a disk usage statistics viewer and cleanup tool for various versions of Microsoft Windows.
+
+[Scrutiny](https://github.com/AnalogJ/scrutiny) is a WebUI tool for smartd [S.M.A.R.T monitoring](https://www.crucial.com/articles/about-ssd/smart-and-ssds), Historical Trends & Real World Failure Thresholds.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/183272245-468ac924-ebd6-475d-94af-6dfa7b97e7cb.png">
+<br />
 </p>
