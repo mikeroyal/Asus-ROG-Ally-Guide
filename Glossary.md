@@ -1,5 +1,7 @@
 **A list of useful terms for Windows 11 and the ROG Ally.**
 
+[Back to Home](/README.md#table-of-contents)
+
 A
 
 [AMD FidelityFX Super Resolution (FSR)](https://www.amd.com/en/technologies/radeon-software-fidelityfx) is an open source, high-quality solution for producing high resolution frames from lower resolution inputs.
