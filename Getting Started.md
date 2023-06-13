@@ -266,7 +266,7 @@ Resetting reinstalls Windows 11, but lets you choose whether to keep your files 
       
  **Note:** You will need to do Sytem Updates when this process is finished.
 
-### Restore form System Restore Point
+### Restore from System Restore Point
 
 This option takes your PC back to an earlier point in time, called a system restore point. Restore points are generated when you install a new app or driver, and when you create a restore point manually. Restoring won’t affect your personal files, but it will remove apps, drivers, and updates installed after the restore point was made.
 
