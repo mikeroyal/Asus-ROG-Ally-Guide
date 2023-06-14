@@ -124,7 +124,7 @@ Asus ROG Ally UI is powered by [Armoury Crate](https://rog.asus.com/armoury-crat
   <br />
 </p>
 
-## Macro Shorcut Buttons for ROG Ally
+## Macro Shortcut Buttons for ROG Ally
 
 [Back to the Top](#table-of-contents)
 
