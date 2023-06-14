@@ -218,6 +218,38 @@ Second way to stop auto-start apps is through Task Manager. Open task manager in
   <br />
 </p>
 
+### Turnoff VBS
+
+**Virtualization Based Security (VBS)** can slow apps (and games) down by **5 to 15% in Windows 11** especially if you're on an **AMD system**.
+
+ * 1. **Open System Information**. Do this by searching for "system information" in Windows search and clicking the top result.
+
+ * 2. Scroll down to find the "Virtualization-based security" row. If it says "running," VBS is enabled. But if it says "not enabled," then you're done.
+
+**Below are different are Two Ways you can disable VBS in Windows 11:**
+
+**Disable VBS/HVCI in Windows 11**
+
+ * 1. Search for Core Isolation in Windows search and click the top result.
+
+ * 2. Toggle Memory Integrity to off, if it was on. 
+
+ * 3. Reboot your PC as prompted.
+
+ * 4. Check **System Information** again to see if virtualization-based security is listed as "not enabled." 
+
+**Disable VBS By Uninstalling Virtual Machine**
+
+If VBS is running, you can get rid of it by uninstalling the **"Virtual Machine"** feature in Windows. **Note:** that if this is the feature that's enabling VBS for you, losing it may cost you the ability to run **Windows Subsystem for Linux 2 (WSL2)**.
+
+ * 1. Open Turn Windows Features on or Off by searching for it.
+
+ * 2. Uncheck Virtual machine and click Ok.
+
+ * 3. Reboot your PC.
+
+ * 4. Check **System Information** again to make sure virtualization based security is listed as "not enabled."
+
 ## Reset/Restore Windows 11
 
 [Back to the Top](#table-of-contents)
