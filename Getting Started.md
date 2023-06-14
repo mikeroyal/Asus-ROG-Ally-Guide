@@ -10,7 +10,7 @@ If you just got your ASUS ROG Ally, or have had it for a while and want to learn
 * [ROG Ally Community Resources](#rog-ally-community-resources)
 * [YouTube videos on the Asus ROG Ally](#youtube-videos-on-the-asus-rog-ally)
 * [Asus ROG Ally UI Overview](#asus-rog-ally-ui-overview)
-* [Macro Shortcut Buttons for ROG Ally](#macro-shortcut-buttoons-for-rog-ally)
+* [Macro Shortcut Buttons for ROG Ally](#macro-shortcut-buttons-for-rog-ally)
 * [Turnoff The Bootup Sound On The ROG Ally](#turnoff-the-bootup-sound-on-the-rog-ally)
 * [Getting Things Setup & Updates](#getting-things-setup--updates)
 * [Optimizing Windows 11](#optimizing-windows-11)
