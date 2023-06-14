@@ -222,6 +222,16 @@ Second way to stop auto-start apps is through Task Manager. Open task manager in
 
 [Back to the Top](#table-of-contents)
 
+### Reset Windows 11 with ASUS Cloud Recovery
+
+* 1. Reinstall Windows on your device by using **ASUS Cloud Recovery** in the **Advanced** section of the BIOS menu.
+* 2. **Access BIOS** - Restart your ROG Ally by pressing the power button and hold the **Volume Down button**.
+* 3. In the BIOS press Y and go to **Advanced Setting** and  select **ASUS Cloud Recovery**.
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/bab54540-9472-43bd-8e5d-7f5a543e7ed6">
+  ROG Ally BIOS menu. Image Credit: ASUS
+</p>
 
 ### Reset your Windows 11 system
 
