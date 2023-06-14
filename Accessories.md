@@ -156,6 +156,18 @@ ROG Ally Travel Case. Credit: [Asus](https://rog.asus.com/gaming-handhelds/acces
  <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/5272b1f2-0b87-4ac5-af06-313ea97a0746">
 </p>
 
+[Voikoli Protective Eva Hard Shell Case Compatible with ASUS ROG Ally, Shockproof and Durable](https://www.amazon.com/ASUS-Ally-120Hz-Gaming-Handheld/dp/B0C68DM4HK)
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/b20a5890-498a-4879-ab51-1fd316a87e38">
+</p>
+
+[Custom-fit Pouch case for Asus ROG Ally + accessories](https://www.sfbags.com/collections/rog-ally-collection/products/pouch-for-rog-ally)
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/714151f7-a510-44a9-8d09-626c4aa22e7a">
+</p>
+
 **Note: The cases below were originally designed for the Steam Deck, though, YouTuber reviews have shown these cases work great for the Asus ROG Ally as well providing great protection for those travelling with their device. Otherwise, case options are limited until the ROG Ally is released on June 13th.**
 
 [Boffdock Large Carrying Case](https://www.amazon.com/Carrying-Ultra-thickness-Boffdock-Removable-Accessories-Carry/dp/B0BLHKKW2Q)
