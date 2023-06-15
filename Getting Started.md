@@ -10,7 +10,7 @@ If you just got your ASUS ROG Ally, or have had it for a while and want to learn
 * [ROG Ally Community Resources](#rog-ally-community-resources)
 * [YouTube videos on the Asus ROG Ally](#youtube-videos-on-the-asus-rog-ally)
 * [Asus ROG Ally UI Overview](#asus-rog-ally-ui-overview)
-* [Macro Shortcut Buttons for ROG Ally](#macro-shortcut-buttons-for-rog-ally)
+* [Macro Buttons Shortcuts for ROG Ally](#macro-buttons-shortcuts-for-rog-ally)
 * [Turnoff The Bootup Sound On The ROG Ally](#turnoff-the-bootup-sound-on-the-rog-ally)
 * [Getting Things Setup & Updates](#getting-things-setup--updates)
 * [Optimizing Windows 11](#optimizing-windows-11)
@@ -124,7 +124,7 @@ Asus ROG Ally UI is powered by [Armoury Crate](https://rog.asus.com/armoury-crat
   <br />
 </p>
 
-## Macro Shortcut Buttons for ROG Ally
+## Macro Buttons Shortcuts for ROG Ally
 
 [Back to the Top](#table-of-contents)
 
@@ -172,7 +172,9 @@ Asus ROG Ally UI is powered by [Armoury Crate](https://rog.asus.com/armoury-crat
 
   7. You'e almost done! Once the device restarts open your start menu and in the search box field tap there and type "Disk Cleanup" and open it. Once it loads, click the button for "Clean Up System Files" and it will close and reopen. Click the checkbox next to every option (you have to scroll down to get them all" then click "Clean up". This got me back almost 15gigs on the hard drive.
 
-  8. After that, go the the start menu and in the search box type "Defrag" and open the Disk defrag app. When it loads, click your "C:" drive and click "Optimize". 
+  8. After that, go the the start menu and in the search box type "Defrag" and open the Disk defrag app. When it loads, click your "C:" drive and click "Optimize".
+  
+  9.  Check if your time is off (bottom right corner of the Windows menu bar) - Right click (Right Trigger if you are using the built in controller) on the date/time in the bottom right corner, select **"Adjust Date/Time"**. Check to make sure the toggle is **ON for Set Time Automatically** , **ON for Adjust for Daylight Savings Automatically**, Make sure your timezone is correct in the drop down for Timezone, and OFF for set timezone automatically. Then click the button for **"Sync Now"** under additional settings and that should set your day/time correctly. **Note: Step 9 Fixes the issue with Xbox Game Pass not working properly.** 
   
   **That's it everything is up-to-date for your ROG Ally device.**
 
