@@ -279,7 +279,7 @@ If VBS is running, you can get rid of it by uninstalling the **"Virtual Machine"
 
 ### Reset your Windows 11 system
 
-Resetting reinstalls Windows 11, but lets you choose whether to keep your files or remove them, and then reinstalls Windows. You can reset your PC from Settings, the sign-in screen, or by using a recovery drive or installation media.
+**Resetting**, reinstalls Windows 11, but lets you choose whether to keep your files or remove them, and then reinstalls Windows. You can reset your PC from Settings, the sign-in screen, or by using a recovery drive or installation media.
 
 **Reset your PC from Settings**
 
@@ -289,7 +289,7 @@ Resetting reinstalls Windows 11, but lets you choose whether to keep your files 
          <br />
       </p>
 
-   2.  Next to Reset this PC , select Reset PC. Then, select Keep my files, choose cloud or local, change your settings, and set Restore preinstalled apps? or No. 
+   2.  Next to **Reset this PC** , select **Reset PC**. Then, select Keep my files, choose cloud or local, change your settings, and set Restore preinstalled apps? or No. 
    
    <p align="center">
        <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/6dc439f6-333d-41cf-8bbd-1e5cc184eb80">
