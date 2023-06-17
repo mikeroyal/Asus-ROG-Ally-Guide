@@ -379,6 +379,13 @@ This option takes your PC back to an earlier point in time, called a system rest
 
 [Back to the Top](#table-of-contents)
 
+### Using MyASUS for monitoring Battery health
+
+<p align="center">
+<img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/0ec9edf6-0138-43cd-91ba-a3ef5e9425cd">
+<br />
+</p>
+
 ### Powercfg Battery Report
 
 [Powercfg](https://docs.microsoft.com/en-us/windows-hardware/design/device-experiences/powercfg-command-line-options) is a tool built-in to Windows that generates detailed report on battery health of your Windows device. 
