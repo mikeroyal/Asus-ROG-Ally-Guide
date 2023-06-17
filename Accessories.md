@@ -162,6 +162,12 @@ ROG Ally Travel Case. Credit: [Asus](https://rog.asus.com/gaming-handhelds/acces
  <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/b20a5890-498a-4879-ab51-1fd316a87e38">
 </p>
 
+[ButterFox Grip Carry Case](https://www.amazon.com/ButterFox-Nintendo-Switch-Controller-Dockable/dp/B0899NBQVV)
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/f02f5c51-3caf-46f0-8ad3-2aadea5f52dc">
+</p>
+
 [Custom-fit Pouch case for Asus ROG Ally + accessories](https://www.sfbags.com/collections/rog-ally-collection/products/pouch-for-rog-ally)
 
 <p align="center">
