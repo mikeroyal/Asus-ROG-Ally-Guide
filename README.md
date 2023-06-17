@@ -7,6 +7,10 @@
 <a href="https://github.com/mikeroyal?tab=followers">
          <img alt="followers" title="Follow for Updates" src="https://custom-icon-badges.demolab.com/github/followers/mikeroyal?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> 
 
+![Maintenance](https://img.shields.io/maintenance/yes/2023?style=for-the-badge)
+![Last-Commit](https://img.shields.io/github/last-commit/mikeroyal/asus-rog-ally-guide?style=for-the-badge)
+
+
 A Community Guide to getting all your Accessories, Games, Emulators, and Gaming Tips for your Asus ROG Ally Gaming Handheld. 
 
 **Note :** For those wanting to view this ASUS ROG Ally Guide in a different language like Chinese, Japanese, Spanish, French, Italian, or German. I would recommend using the [Google Translate for Websites](https://translate.google.com/) just Copy & Paste the URL for this repo and select the Langauge you want it translated to.
