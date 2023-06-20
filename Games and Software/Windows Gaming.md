@@ -713,6 +713,8 @@ There are also a bunch of Android Settings you can customize as well, which are 
 
 [Pegasus](https://pegasus-frontend.org/) is a cross platform, customizable graphical frontend for launching emulators and managing your game library (especially retro games) and launching them from one place. It's focused on customizability, cross platform support (including embedded devices) and high performance.
 
+[RetroBat](https://www.retrobat.org/) is a software distribution designed for emulation and to be the easiest way to enjoy your game collection on your Windows computer. The supplied EmulationStation interface is fully functional and highly customizable. 
+
 [Mednaffe](https://github.com/AmatCoder/mednaffe) is a front-end (GUI) for mednafen emulator which is a portable argument(command-line)-driven multi-system emulator. *
 
 **The following systems are supported:**
