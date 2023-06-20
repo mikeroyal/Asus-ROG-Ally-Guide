@@ -709,6 +709,8 @@ There are also a bunch of Android Settings you can customize as well, which are 
 
 [EmulationStation Desktop Edition (ES-DE)](https://www.es-de.org/) is a frontend application for browsing and launching games from your multi-platform game collection. It's  available for Unix/Linux, macOS(M1 & Intel) and Windows.
 
+[EmuDeck for Windows](https://www.patreon.com/dragoonDorise) is a tool that simplifies the process of adding 160 different emulators and their supporting utilities to your ROG Ally or Steam Deck. The new graphical interface now let's you select different resolutions for PS1, PS2, Switch and Gamecube games.
+
 [RetroArch](https://www.retroarch.com/) is a frontend for emulators, game engines and media players. It enables you to run classic games on a wide range of computers and consoles through its slick graphical interface. Settings are also unified so configuration is done once and for all.
 
 [Pegasus](https://pegasus-frontend.org/) is a cross platform, customizable graphical frontend for launching emulators and managing your game library (especially retro games) and launching them from one place. It's focused on customizability, cross platform support (including embedded devices) and high performance.
