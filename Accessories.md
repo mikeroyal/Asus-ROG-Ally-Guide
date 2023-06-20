@@ -21,6 +21,7 @@
 - [Storage](#storage)
   - [MicroSD Cards](#microsd-cards)
   - [SSDs](#ssds)
+  - [SSD Heatsink](#ssd-heatsink)
   - [External/Portable SSDs](#portable-ssds)
 - [Power](#power)
   - [Chargers](#chargers)
@@ -535,6 +536,17 @@ Image Credit: [SD Association](https://www.sdcard.org/)
  <p align="center">
  <img src="https://github.com/mikeroyal/Steam-Deck-Guide/assets/45159366/dbd8ae1d-62e7-45da-bfd7-c4cb23f8b919">
 </p>
+
+### SSD Heatsink
+
+[Back to Top](#asus-rog-ally-accessories)
+
+[SSD Heatsink Thermal Pad: M.2 2230 NVME SSD Copper Heat Sink Cooling Thermal Paste](https://www.amazon.com/Steam-Deck-SSD-Heatsink-Thermal/dp/B0C1BQVZW2)
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/cbe78e70-d9ee-4010-adeb-d70977cbaa0a">
+</p>
+
 
 ### Portable SSDs
 
