@@ -62,6 +62,7 @@ If you just got your ASUS ROG Ally, or have had it for a while and want to learn
  
  * **[ROG Ally Community Reddit](https://www.reddit.com/r/ROGAlly/)**
  * **[Unofficial ROG Ally Discord](https://discord.gg/FXCSyqQBu2)**
+ * **[Deckmate/Allymate Discord](https://discord.gg/D2uRpe8v)**
  * **[ASUS ROG ALLY Life - The Latest ASUS ROG ALLY News, Tips & Tricks](https://rogallylife.com/)**
  * **[ASUS ROG Ally Gaming on Twitter](https://twitter.com/Asus_ROG_Ally)**
 
