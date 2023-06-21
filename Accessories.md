@@ -200,6 +200,14 @@ ROG Ally Travel Case. Credit: [Asus](https://rog.asus.com/gaming-handhelds/acces
  <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/ad646747-fa58-45ab-a266-acd3c738884a">
 </p>
 
+[Allymate Adapter Bundle](https://deckmate.me/products/allymate-adapter-bundle)
+
+ * [AllyMate 3D Digial files](https://deckmate.me/pages/digital-files)
+
+ <p align="center">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/226a3a0f-4a84-4940-bbc8-5a13544e5f4d">
+</p>
+
 [Pixel Art Universal Controller Stand](https://www.amazon.com/Universal-Controller-PlayStation%C2%AE-Not-Machine-Specific/dp/B0B57FBRJZ/)
 
 <p align="center">
