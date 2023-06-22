@@ -12,6 +12,7 @@
   - [USB-C Fast Charging Cables (from 3.3-10ft)](#usb-c-fast-charging-cables)
 - [Cases](#cases)
 - [Stands/Holders](#stands)
+- [Thumbstick Grips](#thumbstick-grips)
 - [Skins](#skins)
 - [Animated Wallpapers](#animated-wallpapers)
 - [Headphones](#headphones)
@@ -250,6 +251,21 @@ ROG Ally Travel Case. Credit: [Asus](https://rog.asus.com/gaming-handhelds/acces
  <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/213c8041-cf0d-4fe7-9ac5-21687c6c4a44">
 </p>
 
+## Thumbstick Grips
+
+[Back to Top](#asus-rog-ally-accessories)
+
+[Thumb Grip Set for Steam Deck/ROG Ally](https://skullnco.com/collections/thumb-grip/products/thumb-grip-set-for-steam-deck)
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/c488b25b-637f-4151-9ad8-5520b51e587e">
+</p>
+
+[ASUS ROG Ally - Thumbstick Protector/Cover - Works with Thumb Grips](https://www.etsy.com/listing/1506620817/asus-rog-ally-thumbstick-protectorcover)
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/299d9665-c7aa-4dfb-93bd-c2ec6b6919c6">
+</p>
 
 ## Skins
 
