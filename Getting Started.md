@@ -14,6 +14,7 @@ If you just got your ASUS ROG Ally, or have had it for a while and want to learn
 * [Turnoff The Bootup Sound On The ROG Ally](#turnoff-the-bootup-sound-on-the-rog-ally)
 * [Turn off RGB Lighting](turn-off-rgb-lighting)
 * [Getting Things Setup & Updates](#getting-things-setup--updates)
+* [Replace Armoury crate with Playnite](replace-armoury-crate-with-playnite)
 * [Optimizing Windows 11](#optimizing-windows-11)
 * [Reset/Restore Windows 11](#resetrestore-windows-11)
 * [Backups](#Backups)
@@ -190,6 +191,32 @@ Go into **Armoury crate -> Content -> Settings -> Lighting -> Settings -> Toogle
   9.  Check if your time is off (bottom right corner of the Windows menu bar) - Right click (Right Trigger if you are using the built in controller) on the date/time in the bottom right corner, select **"Adjust Date/Time"**. Check to make sure the toggle is **ON for Set Time Automatically** , **ON for Adjust for Daylight Savings Automatically**, Make sure your timezone is correct in the drop down for Timezone, and OFF for set timezone automatically. Then click the button for **"Sync Now"** under additional settings and that should set your day/time correctly. **Note: Step 9 Fixes the issue with Xbox Game Pass not working properly.** 
   
   **That's it everything is up-to-date for your ROG Ally device.**
+
+## Replace Armoury create with Playnite
+
+[Back to the Top](#table-of-contents)
+ 
+[Playnite](https://playnite.link/) is an open source video game library manager and launcher with support for 3rd party libraries like Steam, GOG, Origin, Battle.net and Ubisoft Connect. Includes game emulation support, providing one unified interface for your games.
+
+* [How To Setup Playnite On The ROG Ally](https://rogallylife.com/2023/06/15/how-to-setup-playnite-on-the-rog-ally/)
+* [Playnite Addons](https://playnite.link/addons.html)
+
+<p align="center">
+  <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/5cbf5acc-24e7-459a-af19-71e5e4fdbb4a">
+</p>
+
+<p align="center">
+  <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/7d0a95ab-9aba-4a9a-a5aa-8d7a92f80a18">
+</p>
+
+<p align="center">
+  <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/242e80c7-c4ff-42a1-9048-bdadea0a8662">
+</p>
+
+**Disable Armoury crate on Boot/Startup**
+
+Go into **Armoury crate -> Content -> Settings -> About -> Toggle the disable on boot/startup option**.
+ 
 
 ## Optimizing Windows 11
 
