@@ -12,6 +12,7 @@ If you just got your ASUS ROG Ally, or have had it for a while and want to learn
 * [Asus ROG Ally UI Overview](#asus-rog-ally-ui-overview)
 * [Macro Buttons Shortcuts for ROG Ally](#macro-buttons-shortcuts-for-rog-ally)
 * [Turnoff The Bootup Sound On The ROG Ally](#turnoff-the-bootup-sound-on-the-rog-ally)
+* [Turn off RGB Lighting](turn-off-rgb-lighting)
 * [Getting Things Setup & Updates](#getting-things-setup--updates)
 * [Optimizing Windows 11](#optimizing-windows-11)
 * [Reset/Restore Windows 11](#resetrestore-windows-11)
@@ -152,6 +153,12 @@ Asus ROG Ally UI is powered by [Armoury Crate](https://rog.asus.com/armoury-crat
  <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/bab54540-9472-43bd-8e5d-7f5a543e7ed6">
   ROG Ally BIOS menu. Image Credit: ASUS
 </p>
+
+## Turn off RGB Lighting
+
+[Back to the Top](#table-of-contents)
+
+Go into **Armoury crate -> Content -> Settings -> Lighting -> Settings -> Toogle Sleep option**. 
 
 ## Getting Things Setup & Updates
 
