@@ -14,7 +14,7 @@ If you just got your ASUS ROG Ally, or have had it for a while and want to learn
 * [Turnoff The Bootup Sound On The ROG Ally](#turnoff-the-bootup-sound-on-the-rog-ally)
 * [Turn off RGB Lighting](turn-off-rgb-lighting)
 * [Getting Things Setup & Updates](#getting-things-setup--updates)
-* [Replace Armoury crate with Playnite](replace-armoury-crate-with-playnite)
+* [Replace Armoury crate with Playnite](#replace-armoury-crate-with-playnite)
 * [Optimizing Windows 11](#optimizing-windows-11)
 * [Reset/Restore Windows 11](#resetrestore-windows-11)
 * [Backups](#Backups)
