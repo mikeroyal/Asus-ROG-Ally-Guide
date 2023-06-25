@@ -498,12 +498,14 @@ The Asus Ally supports expansion via a MicroSD card slot which supports up to **
 
 ### MicroSD Cards
 
+[SD Memory Card Formatter for Windows/Mac](https://www.sdcard.org/downloads/formatter/)
+
 * [SanDisk Extreme PRO microSDXC™ UHS-I CARD speeds up to 200MB/s](https://www.westerndigital.com/products/memory-cards/sandisk-extreme-pro-uhs-i-microsd#SDSQXCD-1T00-GN6MA)
 * [Integral MicroSD cards](https://www.integralmemory.com/product-category/memory-cards/micro-sd/)
 * [Lexar MicroSD cards on Amazon](https://www.amazon.com/lexar-micro-sd-cards/s?k=lexar+micro+sd+cards)
 * [SanDisk 1TB MicroSD Card on Amazon](https://www.amazon.com/SanDisk-1TB-Micro-SD-Cards/s?k=SanDisk+1TB+Micro+SD+Cards)
 * [Samsung 512GB EVO Select MicroSD Card on Amazon](https://www.amazon.com/SAMSUNG-Adapter-microSDXC-MB-ME512KA-AM/dp/B09B1HMJ9Z)
-* [Micron MicroSD cars](https://www.micron.com/products/memory-cards/part-catalog)
+* [Micron MicroSD cards](https://www.micron.com/products/memory-cards/part-catalog)
 
 **Note:** **UHS (Ultra High Definition)** is the next generation bus interface used to enable high-speed data transfer for SDHC and SDXC cards. There are classes UHS-I (Ultra High-Speed Phase I), UHS-II (Ultra High-Speed Phase II), and UHS-III (Ultra High-Speed Phase III). For daily usage, a microSD or SD card with UHS-I interface would be sufficient with storage capacity up to 1TB. If this doesn't satisfy your needs, you can go for microSD or SD cards with UHS-II interface with current storage capacity up to 256GB.
 
