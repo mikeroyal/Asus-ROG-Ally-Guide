@@ -192,7 +192,7 @@ Go into **Armoury crate -> Content -> Settings -> Lighting -> Settings -> Toogle
   
   **That's it everything is up-to-date for your ROG Ally device.**
 
-## Replace Armoury create with Playnite
+## Replace Armoury crate with Playnite
 
 [Back to the Top](#table-of-contents)
  
