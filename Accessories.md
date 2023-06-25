@@ -11,6 +11,7 @@
   - [USB-C Adapters](#usb-c-adapters)
   - [USB-C Fast Charging Cables (from 3.3-10ft)](#usb-c-fast-charging-cables)
 - [Cases](#cases)
+- [Port Guard](#port-guard)
 - [Stands/Holders](#stands)
 - [Thumbstick Grips](#thumbstick-grips)
 - [Skins](#skins)
@@ -190,6 +191,17 @@ ROG Ally Travel Case. Credit: [Asus](https://rog.asus.com/gaming-handhelds/acces
 [Migitec Waterproof Hard Carrying Case](https://www.amazon.com/Migitec-Waterproof-Carrying-Compatible-Protective/dp/B0B9P73H63)
 
 [Sonigrace Carrying Case](https://www.amazon.com/Carrying-Compatible-Nintendo-Switch-Steam-Deck/dp/B0BVZ61J51)
+
+
+### Port Guard
+
+[Back to Top](#asus-rog-ally-accessories)
+
+[ASUS ROG Ally Port Guard (4 Pack) | Made in USA](https://www.etsy.com/listing/1505375327/asus-rog-ally-port-guard-4-pack-made-in)
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/bfdb1eac-a152-4c7e-b0f1-877f93b7286e">
+</p>
 
 ### Stands
 
