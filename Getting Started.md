@@ -15,6 +15,7 @@ If you just got your ASUS ROG Ally, or have had it for a while and want to learn
 * [Turn off RGB Lighting](turn-off-rgb-lighting)
 * [Getting Things Setup & Updates](#getting-things-setup--updates)
 * [Replace Armoury crate with Playnite](#replace-armoury-crate-with-playnite)
+* [Adding Gryoscope Controller Support](#adding-gyro-support)
 * [Optimizing Windows 11](#optimizing-windows-11)
 * [Reset/Restore Windows 11](#resetrestore-windows-11)
 * [Backups](#Backups)
@@ -219,7 +220,25 @@ Go into **Armoury crate -> Content -> Settings -> Lighting -> Settings -> Toogle
 **Disable Armoury crate on Boot/Startup**
 
 Go into **Armoury crate -> Content -> Settings -> About -> Toggle the disable on boot/startup option**.
+
+## Adding Gyro Support
+
+[Back to the Top](#table-of-contents)
  
+[Handheld Companion](https://github.com/Valkirie/HandheldCompanion/releases) is a  combination of a Windows service and a touch interface optimized GUI to increase your handheld gaming computer experience. 
+
+**Features include:**
+
+  * Motion control a.k.a. gyro control through a device's inertial measurement unit (IMU, Gyroscope and Accelerometer) or external sensor. Settings availible for racing, 1st and 3rd person gaming and emulator support.
+  * Quicktools overlay, with easy access to various settings and information such as TDP, GPU, Screen Hz, Resolution, Brightness, Volume, Powermode control and battery level.
+  * Virtual controller simulation of Microsoft Xbox 360 Controller and Sony DualShock 4 Controller.
+  * Profile settings system, automatic detection of active game and applying of settings.
+  * PS Remote Play support with DS4 controller, including motion and touchpad.
+  * 3D Controller overlay for stream recordings.
+ 
+<p align="center">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/8cc9a29d-919c-417f-9139-92bf2447f221">
+</p>
 
 ## Optimizing Windows 11
 
