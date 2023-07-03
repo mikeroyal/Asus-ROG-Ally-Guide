@@ -16,6 +16,7 @@ If you just got your ASUS ROG Ally, or have had it for a while and want to learn
 * [Getting Things Setup & Updates](#getting-things-setup--updates)
 * [Replace Armoury crate with Playnite](#replace-armoury-crate-with-playnite)
 * [Adding Gryoscope Controller Support](#adding-gyro-support)
+* [Sleep/Suspend Games](#sleepsuspend-games)
 * [Optimizing Windows 11](#optimizing-windows-11)
 * [Reset/Restore Windows 11](#resetrestore-windows-11)
 * [Backups](#Backups)
@@ -238,6 +239,49 @@ Go into **Armoury crate -> Content -> Settings -> About -> Toggle the disable on
  
 <p align="center">
  <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/8cc9a29d-919c-417f-9139-92bf2447f221">
+</p>
+
+## Sleep/Suspend Games
+
+[Back to the Top](#table-of-contents)
+
+### Method 1
+
+**Turning on Hibernation for Windows 11**
+
+Use hibernation when you know that you won't use your device for an extended period and won't have an opportunity to charge the battery during that time. First check to see if this option is available on your PC and if it is, turn it on.
+
+**To set your PC so it hibernates:**
+
+  * Select Search on the taskbar, type control panel, and select it from the results.
+
+  * Select System and Security.
+
+  * In the Power Options section, select Change what the power buttons do.
+
+  * Select Change settings that are currently unavailable.
+
+  * In the Shutdown settings section, select Hibernate.
+
+  *  Select Save changes.
+
+**Now you’ll be able to hibernate your PC in a few different ways:**
+
+   * Select **Start , and then select Power  -> Hibernate**.
+   
+### Method 2
+
+[Nyrna](https://github.com/Merrit/nyrna/releases) is a tool that let's you Suspend games and applications. Similar to the useful sleep/suspend function found in consoles like the Nintendo Switch and Sony PlayStation; suspend your game (and its resource usage) at any time, and resume whenever you wish at the push of a button.
+
+**Suspend Games**
+
+ * Pause cutscenes to read the subtitles, examine the scene, answer the door, etc.
+ * Pause games that can't normally be paused (single-player games like Dark Souls, Elden Ring, etc).
+ * Suspend games whose pause screens keep the system running hot or playing unwanted music.
+ * Suspend inbetween checkpoints (example: Hollow Knight).
+ 
+<p align="center">
+ <img src="https://github.com/mikeroyal/Windows-11-Guide/assets/45159366/8e167ee5-820b-4b69-a157-1870e335fe74">
 </p>
 
 ## Optimizing Windows 11
