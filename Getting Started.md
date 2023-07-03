@@ -225,6 +225,8 @@ Go into **Armoury crate -> Content -> Settings -> About -> Toggle the disable on
 
 ## Gaming on Xbox Game Pass
 
+[Back to the Top](#table-of-contents)
+
 [Xbox Game Pass](https://xbox.com/xbox-game-pass) is a video game subscription services from Microsoft starting at $9.99 and $14.99 for the [Ultimate Pass](https://www.xbox.com/en-US/xbox-game-pass/ultimate). 
 
 <p align="center">
