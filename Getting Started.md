@@ -287,14 +287,53 @@ Go into **Armoury crate -> Content -> Settings -> About -> Toggle the disable on
 **July 3**
 
    * Arcade Paradise (Xbox Series X|S, Xbox One, & Windows PC)
-
+     
 **July 5**
 
-   * Sword and Fairy: Together Forever (Xbox Series X|S, Xbox One, & Windows PC)
+   * Grand Theft Auto V (Xbox Series X|S, Xbox One, & Xbox Cloud Gaming)
 
+   * Sword and Fairy: Together Forever (Xbox Series X|S, Xbox One, & Windows PC)
+   
+**July 6**
+
+ * McPixel 3 (Xbox Series X|S, Xbox One, Windows PC, & Xbox Cloud Gaming)
+ 
+**July 11**
+
+ * Common’hood (Xbox Series X|S, Xbox One, Windows PC, & Xbox Cloud Gaming)
+ * Insurgency: Sandstorm (Windows PC)
+ 
+**July 14**
+ 
+ * Exoprimal (Xbox Series X|S, Xbox One, Windows PC, & Xbox Cloud Gaming)
+ 
 **July 18**
 
    * Techtonica (Xbox Series X|S, Xbox One, & Windows PC)
+   * The Cave (Xbox Series X|S, Xbox One, & Xbox Cloud Gaming)
+   
+**July 31**
+    
+   * Venba (Xbox Series X|S, Xbox One, & Windows PC)
+   
+**September 6**
+
+   * Starfield Direct (Xbox Series X|S, Xbox One, & Windows PC)
+ 
+**September 29**
+ 
+   * Cocoon (Xbox Series X|S, Xbox One, & Windows PC)
+ 
+**November 2**
+ 
+   * Thirsty Suitors (Xbox Series X|S, Xbox One, & Windows PC)
+
+**Early 2024**
+    
+   * Bounty Star (Xbox Series X|S, Xbox One, & Windows PC)
+   * Ghostbike (Xbox Series X|S, Xbox One, & Windows PC)
+   * Flock (Xbox Series X|S, Xbox One, & Windows PC)
+   * To A T (Xbox Series X|S, Xbox One, & Windows PC)
     
 
 ### Setting up Game Pass for Offline use
