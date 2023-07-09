@@ -103,7 +103,10 @@ If you just got your ASUS ROG Ally, or have had it for a while and want to learn
 [![Must Have ASUS ROG ALLY Accessories!| ETA Prime](https://ytcards.demolab.com/?id=dMfJhqfUi7c&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Must Have ASUS ROG ALLY Accessories! | ETA Prime")](https://www.youtube.com/watch?v=dMfJhqfUi7c)
 [![Asus ROG Ally Sold Out? + Official Accessories in-stock | GregglesTV](https://ytcards.demolab.com/?id=wbMMQqnFeJU&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Asus ROG Ally Sold Out? + Official Accessories in-stock | GregglesTV")](https://www.youtube.com/watch?v=wbMMQqnFeJU)
 [![Diablo 4 On The ASUS ROG Ally, Can This Hand-Held Handle Diablo IV? | ETA Prime](https://ytcards.demolab.com/?id=XWQE-ZyMiAk&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Diablo 4 On The ASUS ROG Ally, Can This Hand-Held Handle Diablo IV? | ETA Prime")](https://www.youtube.com/watch?v=XWQE-ZyMiAk)
-
+[![ROG ALLY & VR - Can the ROG ALLY Do VRChat & more, WELL?](https://ytcards.demolab.com/?id=XyoLqOzy5Gc&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "ROG ALLY & VR - Can the ROG ALLY Do VRChat & more, WELL?")](https://www.youtube.com/watch?v=XyoLqOzy5Gc)
+[![PC VR on the ROG Ally. It Actually Works!](https://ytcards.demolab.com/?id=6sHIFKspgH4&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "PC VR on the ROG Ally. It Actually Works!")](https://www.youtube.com/watch?v=6sHIFKspgH4)
+[![I Can't Believe This Can Run VR Games](https://ytcards.demolab.com/?id=JPn9m3R30FE&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "I Can't Believe This Can Run VR Games")](https://www.youtube.com/watch?v=JPn9m3R30FE)
+[![How To Connect Asus ROG Ally To Meta Quest 2 VR Headset for gaming](https://ytcards.demolab.com/?id=hAoUnHYinHY&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "How To Connect Asus ROG Ally To Meta Quest 2 VR Headset for gaming")](https://www.youtube.com/watch?v=hAoUnHYinHY)
 
 ## Asus ROG Ally UI Overview
 
