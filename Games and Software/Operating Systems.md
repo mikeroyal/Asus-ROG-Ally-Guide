@@ -56,6 +56,20 @@
 
 [ChimeraOS](https://chimeraos.org/) is a linux operating system that provides an out of the box couch gaming experience. It boots directly into Steam Big Picture and start playing your favorite games. **Note: If you're planning to put Linux on your ROG Ally I would recommend using ChimeraOS.**
 
+ **[ChimeraOS v43 Changelog:](https://github.com/ChimeraOS/chimeraos/wiki/Release-Notes#chimeraos-43-2023-07-06)**
+
+   * **Add initial Asus ROG Ally support. This includes:**
+      * Audio support (With DSDT Override enabled)
+      * Functional WiFi
+      * Functional face buttons
+      * Functional Bluetooth
+      * Experimental partial TDP control in OpenGamepadUI
+      * Suspend functionality is still a work in progress. We recommend disabling auto suspend on the ROG ally and shutting the unit down after each gaming session.
+     * Games should boot up faster and in some cases make games that previously didn't boot now boot correctly.
+     * Add ability to switch update channels in the Steam UI (This requires enabling developer mode and Show Advanced Update Channels in Steam.)
+     * Support for the following handhelds has been added to HandyGCCS. See the [HandyGCCS Wiki](https://github.com/ShadowBlip/HandyGCCS/wiki/Supported-Devices) for button mapping information. 
+     * [OpenGamepadUI](https://github.com/ShadowBlip/OpenGamepadUI) has been updated with a new CardUI, support for many more handhelds, and numerous bug fixes that improve the user experience. Additionally, Lutris and Yuzu plugins have been added to the plugin store.
+
 <p align="center">
   <img src="https://github.com/mikeroyal/Steam-Deck-Guide/assets/45159366/b916cd2f-1b8e-43c7-8833-3c3b0d0715ef">
 </p>
