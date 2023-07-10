@@ -15,7 +15,8 @@ If you just got your ASUS ROG Ally, or have had it for a while and want to learn
 * [Turn off RGB Lighting](turn-off-rgb-lighting)
 * [Getting Things Setup & Updates](#getting-things-setup--updates)
 * [Replace Armoury crate with Playnite](#replace-armoury-crate-with-playnite)
-* [Gaming on Xbox Game Pass](#gaming-on-xbox-game-pass) 
+* [Gaming on Xbox Game Pass](#gaming-on-xbox-game-pass)
+* [Setting up OpenGamepadUI](#setting-up-opengamepadui)
 * [Adding Gryoscope Controller Support](#adding-gyro-support)
 * [Sleep/Suspend Games](#sleepsuspend-games)
 * [Optimizing Windows 11](#optimizing-windows-11)
@@ -364,6 +365,29 @@ Once your device is set up, you’ll need to launch each game you want to play o
 
 Repeat this process for each game you want to play offline. Once completed, you can go offline at any time and launch those games whenever you want to play them, without needing to sign in online each time.
 
+## Setting up OpenGamepadUI
+
+[Back to the Top](#table-of-contents)
+
+[OpenGamepadUI](https://github.com/ShadowBlip/OpenGamepadUI) is a free and open source game launcher and overlay written using the Godot Game Engine 4 designed with a gamepad native experience in mind. Its goal is to provide an open and extendable foundation to launch and play games. It also implements a gamepad input system that can allow you to remap gamepad input to mouse and keyboard inputs.
+    
+  **Features:**
+
+   * In-game overlay menus.
+   * Power tools (TDP control, SMT, etc.).
+   * Fully configurable gamepad input (buttons, axes, mouse & keyboard, etc.).
+   * Per-game customizable gamepad profiles.
+   * Launch games from multiple sources.
+   * Automatic artwork downloading.
+   * Plugin architecture.
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/eb5d12c4-25d6-4954-85f1-5305e14c8b40">
+</p>
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/329a4f31-005c-41e0-ba64-63a050523db3">
+</p>
 
 ## Adding Gyro Support
 
