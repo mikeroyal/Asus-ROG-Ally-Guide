@@ -366,7 +366,7 @@ Once your device is set up, you’ll need to launch each game you want to play o
 
 Repeat this process for each game you want to play offline. Once completed, you can go offline at any time and launch those games whenever you want to play them, without needing to sign in online each time.
 
-## Setting up Univseral Tuning Utility Handheld
+## Setting up Universal Tuning Utility Handheld
 
 [Back to the Top](#table-of-contents)
 
