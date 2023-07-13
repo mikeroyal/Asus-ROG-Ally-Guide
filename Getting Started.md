@@ -18,6 +18,7 @@ If you just got your ASUS ROG Ally, or have had it for a while and want to learn
 * [Gaming on Xbox Game Pass](#gaming-on-xbox-game-pass)
 * [Setting up Universal Tuning Utility Handheld](#setting-up-universal-tuning-utility-handheld)
 * [Setting up OpenGamepadUI](#setting-up-opengamepadui)
+* [Setting up VR on your ROG Ally](setting-up-vr-on-your-rog-ally)
 * [Adding Gryoscope Controller Support](#adding-gyro-support)
 * [Sleep/Suspend Games](#sleepsuspend-games)
 * [Optimizing Windows 11](#optimizing-windows-11)
@@ -407,6 +408,124 @@ Repeat this process for each game you want to play offline. Once completed, you 
 
 <p align="center">
  <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/329a4f31-005c-41e0-ba64-63a050523db3">
+</p>
+
+## Setting up VR on your ROG Ally
+
+**Note:** While VR does work well with the Asus ROG Ally handheld performance will not be as great as VR on a modern Desktop PC. The GPU performance of the Ryzen Z1 Extreme (ROG Ally) is around **8.6 TeraFLOPs**, which is close to the NVIDIA GTX 1080 (released Summer 2016) that's around **9 TeraFLOPs** in graphics performance.
+
+[![ROG ALLY & VR - Can the ROG ALLY Do VRChat & more, WELL?](https://ytcards.demolab.com/?id=XyoLqOzy5Gc&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "ROG ALLY & VR - Can the ROG ALLY Do VRChat & more, WELL?")](https://www.youtube.com/watch?v=XyoLqOzy5Gc)
+[![PC VR on the ROG Ally. It Actually Works!](https://ytcards.demolab.com/?id=6sHIFKspgH4&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "PC VR on the ROG Ally. It Actually Works!")](https://www.youtube.com/watch?v=6sHIFKspgH4)
+[![I Can't Believe This Can Run VR Games](https://ytcards.demolab.com/?id=JPn9m3R30FE&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "I Can't Believe This Can Run VR Games")](https://www.youtube.com/watch?v=JPn9m3R30FE)
+
+
+### Quest 2
+
+[Oculus Quest 2](https://www.oculus.com/quest-2/) is a virtual reality headset developed by Facebook AKA Meta Technologies, LLC. The Quest 2 provides multiplayer games to unique social experiences to joining up with friends at a live show or instructor-led workout. With High Dynamic Range visuals and up to 120fps, as two 1832x1920 per-eye and vast 97° field of view horizontal. Oculus Quest 2 can be connected to a PC via [Oculus Link](https://www.meta.com/help/quest/articles/headsets-and-accessories/oculus-link/connect-link-with-quest-2/), which can be performed using the official Link cable or a third party USB-C cable. This allows the headset to be used to run content from SteamVR and the desktop Oculus store. Note that a high-bandwidth USB specification (USB 3.0 at a minimum) is required to achieve a high-quality and smooth picture.
+
+<p align="center">
+  <img alt="[oculus-quest" src="https://user-images.githubusercontent.com/45159366/156683316-417ccc86-51c7-470a-a565-b5318e014dc0.png">
+</p>
+
+ Oculus Quest 2 Headset. Source: [Oculus](https://www.oculus.com/quest-2/)
+
+**Install and Set Up Quest 2**
+
+ In the Meta Quest app > select Devices > then Add Headset. **Select Quest 2**.
+
+ <p align="center">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/1bb84b00-a121-4f47-b4b0-b60c3bf4a36c">
+</p>
+ 
+ **Using UBS-C Cable Link Option:**
+ 
+  * Select Link (Cable) as the connection method.
+  * Plug one end of the cable into your Meta Quest 2 headset, and the other end of the cable into your ROG Ally device or Docking Station.
+  * In the Meta Quest app, press Continue. On the screen that appears next, you can choose to test your cable connection, or press Continue.
+  * Your Meta Quest 2 is now connected to your PC.
+ 
+ **Using Air Link (Wireless) option:**
+ 
+ * Make sure that both your Quest 2 and your PC are on the same Wi-Fi network; Meta advises that they should be connected to a 5GHz network.
+
+ * In the Meta Quest app on your ROG Ally, select Devices, then Add Headset.
+ 
+ * Select Meta Quest 2, and then select Air Link (Wireless) as your connection method.
+
+ * Put on your headset. Open Quick Settings by hovering over and selecting the clock on the left side of the navigation bar.
+
+ * Press the gear icon in the upper right corner of the window that appears to open the full Settings menu.
+ 
+ * Select the System box.
+
+ * Look for Quest Link, and toggle it On. A window will appear showing all PCs on your network with Air Link available. Select your PC.
+ 
+ * A pairing code will appear in your Meta Quest 2. Take off the headset and make sure it matches the code that appears on your PC’s screen.
+
+ * Put the headset back on, and complete the pairing process.
+
+You should be now connected. From here, you can mirror your PC’s display onto the Meta Quest 2, which will let you play any VR-compatible games, such as No Man's Sky, Half-Life: Alyx, and Star Wars: Squadrons. 
+ 
+### SteamVR
+
+[SteamVR](https://store.steampowered.com/steamvr) is the ultimate tool for experiencing VR content on the hardware of your choice. SteamVR supports the Valve Index, HTC Vive, Oculus Rift, Windows Mixed Reality headsets, and others.
+
+ * [SteamVR Performance Test](https://store.steampowered.com/app/323910/SteamVR_Performance_Test/)
+ * [iVRy Driver for SteamVR](https://store.steampowered.com/app/992490/iVRy_Driver_for_SteamVR/), this let's you use your iPhone, Android, GearVR, Oculus Mobile or Sony PSVR headset as a Virtual Reality Headset for your PC. 
+
+**Install and Set Up SteamVR**
+
+ * If you have a Steam account already, log in to Steam on the PC that you want to install SteamVR on. If you don't have Steam already installed, download it from the [official Steam website](https://store.steampowered.com/), set up an account if necessary, and log in.
+ 
+ <p align="center">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/c4993752-6ffa-404d-b374-eaf288854e0f">
+</br>
+</p>
+
+ * Connect your virtual reality headset to your PC. Your device will install a number of drivers; wait for the installs to finish. You should then be prompted to install SteamVR with a popup box. Press the Install SteamVR button to begin. Otherwise, if that doesn't happen, install SteamVR from the [Steam Store](https://store.steampowered.com/app/250820/SteamVR/).
+ 
+ <p align="center">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/19c1f45c-19c3-4f32-8d88-6120352c30f8">
+</br>
+</p>
+
+SteamVR is approximately 6 GB once downloaded, so the installation may take some time. Once installed, Steam will have a new button in the top right of the window.
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/a0ef26cf-a559-4d30-a54e-62b24c9cb2f8">
+</br>
+</p>
+
+ * Once SteamVR is installed, you can launch it from anywhere on Steam by pressing the small VR button in the top-right corner of your Steam window. Alternatively, you can search for it on your library page. It will be listed under the Tools menu.
+ 
+ <p align="center">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/4d3be08b-16d5-419d-9223-fc17534dc4f3">
+</br>
+</p>
+
+ * If you want to run the absolute latest version of SteamVR to ensure that you are enjoying the latest features and best performance, you can also opt-in for the SteamVR beta. To do so, search for "SteamVR" in your game Library and right-click it.
+
+**Extra Steps for Oculus Users**
+
+If you are using an Oculus VR headset, there is an additional step in installing SteamVR. You will have enable unknown sources in the Oculus App.
+
+To do this, follow the steps below.
+
+  * Start the Oculus App.
+  * Go into Settings.
+  * Click into General.
+  * Find the Unknown Sources toggle and switch it on.
+  * Hit Allow on the pop-up.
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/cad2bc10-807a-412b-b2c6-73c95070c5db">
+</br>
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/110881514-543db400-8295-11eb-9543-fd5d385ddb05.png">
+<br />
+SteamVR Home
 </p>
 
 ## Adding Gyro Support
