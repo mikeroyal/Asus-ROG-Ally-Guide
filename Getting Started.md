@@ -18,7 +18,7 @@ If you just got your ASUS ROG Ally, or have had it for a while and want to learn
 * [Gaming on Xbox Game Pass](#gaming-on-xbox-game-pass)
 * [Setting up Universal Tuning Utility Handheld](#setting-up-universal-tuning-utility-handheld)
 * [Setting up OpenGamepadUI](#setting-up-opengamepadui)
-* [Setting up VR on your ROG Ally](setting-up-vr-on-your-rog-ally)
+* [Setting up VR on your ROG Ally](#setting-up-vr-on-your-rog-ally)
 * [Adding Gryoscope Controller Support](#adding-gyro-support)
 * [Sleep/Suspend Games](#sleepsuspend-games)
 * [Optimizing Windows 11](#optimizing-windows-11)
