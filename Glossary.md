@@ -10,6 +10,8 @@ A
 
 [AMD FidelityFX Super Resolution 3 (FSR 3)](https://www.amd.com/en/technologies/fidelityfx-super-resolution), is the latest version of the company’s upscaling tech. AMD claims it’ll provide 2x times increase in frame rate over FSR 2, boosted by the new AMD Fluid Motion Frames technology.
 
+[AMD Radeon Super Resolution (RSR)](https://www.amd.com/technologies/radeon-super-resolution) is a feature that works at the graphics-drivers level rather than at the game-engine level. Therefore, it has no control over game settings, and doesn't require any developer support. It's not meant to replace **FidelityFX Super Resolution (FSR)**, but rather provide a way for gamers to improve the performance of any game at minimal image quality loss.
+
 [Amazon Luna](https://www.amazon.com/luna/landing-page) is Amazon's Cloud Gaming Service. Amazon Luna is Compatible/Supported on a vartiey of [Devices and Browsers](https://www.amazon.com/gp/help/customer/display.html?nodeId=GUFHUSX8X324T4XE).
 
 [Armoury Crate](https://rog.asus.com/armoury-crate/) is Asus software that helps you manage every aspect of your device from the initial setup to RGB lighting. It also helps with getting the latest updates, drivers, manuals and offers, and connect instantly with your gaming peers.
