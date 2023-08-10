@@ -46,6 +46,9 @@ If you just got your ASUS ROG Ally, or have had it for a while and want to learn
  * **[ROG Ally (2023) Driver & Tools](https://rog.asus.com/gaming-handhelds/rog-ally/rog-ally-2023/helpdesk_download/?model=rc71l)**
  * **[ROG Ally (2023) RC71L Manual](https://rog.asus.com/gaming-handhelds/rog-ally/rog-ally-2023/helpdesk_manual/)**
  * **[Official ROG Ally Tutorials and Guides](https://rog.asus.com/tag/rog-ally)**
+ * ** [ASUS ROG Ally Forum](https://rog-forum.asus.com/t5/rog-ally/bd-p/ROG_Ally)**
+ * **[ASUS ROG Ally Changelogs](https://rog-forum.asus.com/t5/changelogs/bg-p/Handheld_Release_Notes)**
+ * **[ASUS ROG Ally - All Buttons & Shortcuts [Quick Reference]](https://rog-forum.asus.com/t5/knowledge-base/quick-reference-rog-ally-all-buttons-amp-shortcuts/ta-p/942409)**
  * **[15 tips & shortcuts to set up and optimize your ROG Ally](https://rog.asus.com/articles/guides/15-tips--shortcuts-to-set-up-and-optimize-your-rog-ally/)**
  * **[How to boost gaming performance on the ROG Ally](https://rog.asus.com/articles/guides/how-to-boost-gaming-performance-on-the-rog-ally/)**
  * **[How to extend the battery life of your ROG Ally](https://rog.asus.com/articles/guides/how-to-extend-the-battery-life-of-your-rog-ally/)**
