@@ -502,12 +502,18 @@ ROG Ally Travel Case. Credit: [Asus](https://rog.asus.com/gaming-handhelds/acces
 
 [Back to Top](#asus-rog-ally-accessories)
 
-[Asus ROG Ally Tempered Glass Screen Protector by dbrand](https://dbrand.com/shop/glass/asus-rog-ally-tempered-glass-screen-protectors)
+[JSAUX Anti-Glare Protector for ROG Ally with Toolkits [2-Pack]](https://jsaux.com/products/2-pack-anti-glare-protector-for-rog-ally-with-toolkits-gp0113)
 
  <p align="center">
- <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/9ea98ef3-46b7-4ca5-9ccb-8635a68309a3">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/a836b0f5-a6fa-42c5-88b3-9a1bc0fc4391">
 </br>
+</p>
 
+[Magglass for ASUS ROG Ally Handheld Screen Protector (7" inch) Ultra HD Full Coverage Tempered Glass [2-Pack]](https://www.amazon.com/magglass-Handheld-Protector-Coverage-Tempered/dp/B0CBNCPC3H)
+
+ <p align="center">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/35bc649c-1895-4e1b-a469-3e8c7717b51f">
+</br>
 </p>
 
 [ArmorSuit MilitaryShield Screen Protector for Asus ROG Ally](https://www.armorsuit.com/products/armorsuit-militaryshield-screen-protector-for-asus-rog-ally)
@@ -522,6 +528,13 @@ ROG Ally Travel Case. Credit: [Asus](https://rog.asus.com/gaming-handhelds/acces
 
  <p align="center">
  <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/0111d7f5-2c9b-4125-bfc2-8c6fe485fe21">
+</br>
+</p>
+
+[Asus ROG Ally Tempered Glass Screen Protector by dbrand](https://dbrand.com/shop/glass/asus-rog-ally-tempered-glass-screen-protectors)
+
+ <p align="center">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/9ea98ef3-46b7-4ca5-9ccb-8635a68309a3">
 </br>
 </p>
 
