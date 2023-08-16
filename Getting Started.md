@@ -637,6 +637,13 @@ Use hibernation when you know that you won't use your device for an extended per
 
 **Note:** You may need to plug-in a keyboard and mouse into your device to make process easier.
 
+[BloatyNosy](https://github.com/builtbybel/BloatyNosy) is a tool that streamlines and houses all the essential settings under one app and allows you to disable and remove unnecessary features with just a simple click.
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Windows-11-Guide/assets/45159366/3eb29f89-297d-4698-88f2-7c60e2bf7e78">
+  <br />
+</p>
+
 [Chris Titus Tech Windows Utility](https://github.com/ChrisTitusTech/winutil) is a tool that helps you install Programs, Tweaks, Fixes, and Updates. It makes Windows 11 setup easy and optimizes your machine. [The Ultimate Windows Utility | Chris Titus Tech YouTube.](https://www.youtube.com/watch?v=tPRv-ATUBe4)
 
 The recommended way is to right click on the start menu and select (Windows Terminal As Admin Windows 11)
