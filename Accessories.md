@@ -158,7 +158,7 @@ ROG Ally Travel Case. Credit: [Asus](https://rog.asus.com/gaming-handhelds/acces
  <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/2aa49211-91e6-41a1-877a-d68634e6f711">
 </p>
 
-[CitySlicker Case for ASUS ROG Ally (Currently Soldout)](https://www.sfbags.com/products/cityslicker-for-asus-rog-ally)
+[CitySlicker Case for ASUS ROG Ally](https://www.sfbags.com/products/cityslicker-for-asus-rog-ally)
  
 <p align="center">
  <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/5272b1f2-0b87-4ac5-af06-313ea97a0746">
@@ -303,6 +303,18 @@ ROG Ally Travel Case. Credit: [Asus](https://rog.asus.com/gaming-handhelds/acces
 
 <p align="center">
  <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/28cfc463-2458-47bd-a611-b272fd04adf0">
+</p>
+
+[KO Custom Creations skins for ROG Ally](https://kocustomcreations.com/search.php?search_query=rog%20ally&section=product)
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/04c74cbc-2d4a-4609-92e9-114c8eb9a765">
+</p>
+
+[Slickwraps skins for ROG Ally](https://www.slickwraps.com/search?type=product&options%5Bunavailable_products%5D=last&options%5Bprefix%5D=last&q=rog+ally)
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/5fd383dc-e16d-4f5e-b23c-48139dd9f1b4">
 </p>
 
 ## Animated Wallpapers
