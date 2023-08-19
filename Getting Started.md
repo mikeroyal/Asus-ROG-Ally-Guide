@@ -356,13 +356,17 @@ Go into **Armoury crate -> Content -> Settings -> About -> Toggle the disable on
 
 **August 18**	
 
- * The Texas Chain Saw Massacre (Xbox Series X|S, PC, Cloud(TBD))
+ * The Texas Chain Saw Massacre (Xbox Series X|S, PC, Cloud)
 
 **August 29**	
 
- * Sea of Stars (Xbox Series X|S, Cloud(TBD))
+ * Sea of Stars (Xbox Series X|S, Cloud)
+
+**September 5**
+
+ * Gris (Cloud, Console, and PC) 
    
-**September 6**
+**September 6** or **September 1 with [Starfield Premium Edition Upgrade](https://www.xbox.com/games/store/starfield-premium-edition-upgrade/9PB4ZWV7S2MG/0017)**
 
    * Starfield Direct (Xbox Series X|S, Xbox One, & Windows PC)
  
