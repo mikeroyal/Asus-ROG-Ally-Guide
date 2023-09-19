@@ -217,7 +217,7 @@ LUPAPA Protective Case
  [JOYTORN Full Protective Case for ASUS Rog Ally with Detachable Front Shell Cover & Kickstand](https://www.amazon.com/JOYTORN-Protective-Detachable-Kickstand-Anti-Scratch/dp/B0CH12CCXL)
  
  <p align="center">
- <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/f128fd51-d2d5-4dc9-a536-d4296a103dcf">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/138cf9d2-f56c-42b8-9584-b0627d33514f">
 </br>
 JOYTORN Full Protective Case
 </p>
