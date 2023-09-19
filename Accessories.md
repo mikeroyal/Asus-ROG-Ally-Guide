@@ -182,6 +182,46 @@ ROG Ally Travel Case. Credit: [Asus](https://rog.asus.com/gaming-handhelds/acces
  <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/714151f7-a510-44a9-8d09-626c4aa22e7a">
 </p>
 
+[Sonicgrace Protective Case for ASUS Rog Ally with Kickstand](https://www.amazon.com/Sonicgrace-Protective-Kickstand-Anti-Scratch-Accessories/dp/B0CCRVCGBL/)
+ 
+ <p align="center">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/54d41615-4b82-4bff-9d4a-26ccd2d52d5b">
+</br>
+Sonicgrace Protective Case
+</p>
+
+ [Protective Case Cover for ROG Ally Handheld, Game Console Skin Shockproof Protector Cover](https://www.amazon.com/Protective-Handheld-Shockproof-Protector-Accessories/dp/B0CH9BK5WN)
+ 
+ <p align="center">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/d01ff590-0dc4-47a6-b10b-937267d8abb6">
+</br>
+Protective Case Cover
+</p>
+
+ [OPTOSLON Silicone Case with Kickstand Compitable with ASUS ROG Ally Gaming Handheld](https://www.amazon.com/OPTOSLON-Compitable-Protective-Shock-Absorption-Anti-Scratch/dp/B0CCJ9S3G7)
+ 
+ <p align="center">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/cc268c03-45a8-40cd-8492-e922c8078d40">
+</br>
+OPTOSLON Silicone Case with Kickstand
+</p>
+
+ [LUPAPA Protective Case for ROG Ally with Kickstand](https://www.amazon.com/Protective-Kickstand-Silicone-Anti-slip-Anti-drop-Accessories/dp/B0CDFY1GTK)
+ 
+ <p align="center">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/4bf11498-e11a-42aa-b001-643e33fb2164">
+</br>
+LUPAPA Protective Case
+</p>
+
+ [JOYTORN Full Protective Case for ASUS Rog Ally with Detachable Front Shell Cover & Kickstand](https://www.amazon.com/JOYTORN-Protective-Detachable-Kickstand-Anti-Scratch/dp/B0CH12CCXL)
+ 
+ <p align="center">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/f128fd51-d2d5-4dc9-a536-d4296a103dcf">
+</br>
+JOYTORN Full Protective Case
+</p>
+
 **Note: The cases below were originally designed for the Steam Deck, though, YouTuber reviews have shown these cases work great for the Asus ROG Ally as well providing great protection for those travelling with their device. Otherwise, case options are limited until the ROG Ally is released on June 13th.**
 
 [Boffdock Large Carrying Case](https://www.amazon.com/Carrying-Ultra-thickness-Boffdock-Removable-Accessories-Carry/dp/B0BLHKKW2Q)
