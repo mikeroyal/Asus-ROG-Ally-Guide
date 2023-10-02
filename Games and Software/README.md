@@ -13,9 +13,6 @@
 
 ## Getting Software
 
-[Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
-
-
 ### Getting Software on Windows
 
 
